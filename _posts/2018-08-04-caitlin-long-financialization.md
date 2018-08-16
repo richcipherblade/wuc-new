@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wall Street veteran Caitlin Long discusses the sixth network effect of financialization with Wall Street and institutional investors.
+title: Wall Street veteran Caitlin Long discusses financialization
 description: Wall Street veteran Caitlin Long discusses the sixth network effect of financialization with Wall Street and institutional investors.
 author: Trace Mayer
 authorurl: /
@@ -27,9 +27,7 @@ Wall Street veteran <a href="https://twitter.com/CaitlinLong_">Caitlin Long</a> 
 <p>
 <a href="https://repowatch.org/inside-jobs/">RepoWatch</a> – a great site that’s highly critical of rehypothecation and has many resources to learn how it works
 
-**TRANSCRIPT**
-<p>
-<p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">ADVERTISMENT:&nbsp;&nbsp;&nbsp; Open your cerebral cortex and shift your lobes in the upper <strong>(betabase 00:00:05)</strong> because you are going to have Bitcoin knowledge transmitted directly into your vestibulocochlear. Your host at Bitcoin knowledge is Trace Mayer, an early Bitcoin advocates since it costs a quarter, but this is not intended to be investment advice.&nbsp; A Doctor of Jurisprudence, but this definitely not legal advice.&nbsp; And an investor in core cryptocurrency infrastructure including Armory, BitPay, Kraken, and Netagio, but this is not a recommendation of those services.&nbsp; Here, you get there to be a direct mind download with pure and free Bitcoin knowledge.</p>
+<p>**TRANSCRIPT**
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">TRACE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Warning: to mildly comprehend this interview may take many hours. &nbsp;The show notes will contain about 15 hours with the background homework and you may want to listen to this episode at least 3 to 5 times.&nbsp; Listener discretion is advised.&nbsp; Welcome back to the Bitcoin podcast. &nbsp;We have an incredible interview today with Caitlin Long, a Wall Street legend, right, and so welcome to the Podcast, Caitlin.</p>
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">CAITLIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, thanks Trace. &nbsp;That's legend overstates the case but you and I have known each other for years and it's really, really an honor to be on your show. &nbsp;Thank you.</p>
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">TRACE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well, I mean, tell us a little bit about your background? &nbsp;You started in Wyoming, went to big old Harvard Law School then went to Wall Street.&nbsp; One of the few women that has reached such a magnificent stature at Wall Street, you know, spent 22 years there, maybe you could talk a little bit about your background, what you did, how you found yourself there?</p>
@@ -132,5 +130,3 @@ Wall Street veteran <a href="https://twitter.com/CaitlinLong_">Caitlin Long</a> 
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">CAITLIN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, yeah.</p>
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">TRACE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -- I think we have a very bright future so keep up the good work.</p>
 <p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">CAITLN:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oh, you too, Trace.&nbsp; Thanks so much.</p>
-<p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">ADVERTISEMENT: Be sure to get a copy of the free bitcoin guide at freebitcoinguide.com.&nbsp; Got a question or suggestion, record your voice at bitcoin.kn.&nbsp; Don't be shy.&nbsp; To help the show, share bitcoin.kn with friends, post about it and read it and otherwise spam the interwebs.&nbsp; Your iTunes comments and five-star reviews are very important to us.&nbsp; Please continue tuning in to the Bitcoin knowledge podcast where we released interviews with the top people in the Bitcoin world.&nbsp; Now, take some <strong>(Inaudible 00:56:36)</strong> and let that Bitcoin knowledge consolidate.</p>
-<p style="text-indent: -1.5in; margin: 0in 0in 12.0pt 1.5in;">&nbsp;</p>
