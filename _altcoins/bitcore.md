@@ -11,7 +11,7 @@ toc:
   resources: Bitcore Resources 
   buy: How Can I Buy Bitcore?
   use: Where Can I Spend Bitcore?
-  wallets: Which wallets can I use?
+  wallets: Which Wallets Can I Use?
   mining: How Can I Mine Bitcore?
   claiming: How Can I Claim Bitcore?
   latest: Future Development
@@ -75,9 +75,8 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <p>Bitcore can be purchased in four ways :
 <ul>
   <li>Via any of the cryptocurrency markets listed on <a href="https://coinmarketcap.com/currencies/bitcore/#markets">CoinmarketCap's BTX Page</a></li>
-  <li>Via <a href="https://easyrabbit.net/?buy=btx">EasyRabbit</a> : <iframe width="700" height="394" src="https://www.youtube.com/embed/uRZInf3AmtY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li>
-  <li>Via <a href="https://instaswap.io/">Instaswap</a>
-  <li>Via General Bytes ATMs : <iframe width="700" height="394" src="https://www.youtube.com/embed/sd8jIkx-JHc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li>
+  <li>Via <a href="https://easyrabbit.net/?buy=btx">EasyRabbit</a></li>
+  <li>Via <a href="https://instaswap.io/">Instaswap</a></li>
 </ul>
 </p>
 {% include page-toc.html %}
@@ -85,21 +84,21 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <h2 id="use">Where Can I Spend Bitcore?</h2>
 <p>Bitcore can be spent at the following sites : 
 <ul>
-  <li><a href="https://livingroomofsatoshi.com/">Livingroom of Satoshi</a> (credit card bills, electricity bills, health insurance bills, etc., as well as any of the 19,000 businesses accepting payments using BPAY. This is currently limited to country of Australia.)</li>
-  <li><a href="https://www.kamoney.com.br/">Kamoney</a> (bills similar to LivingRoomOfSatoshi. This site is in Brazil.)</li>
+  <li><a href="https://livingroomofsatoshi.com/">Living Room of Satoshi</a></li>
+  <li><a href="https://www.kamoney.com.br/">Kamoney</a></li>
   <li><a href="https://luckygames.io/">Luckygames</a> (betting site)</li>
-  <li><a href="https://www.games4coins.com/">Games4Coins</a> (Steam games. BTX is the only cryptocurrency they accept)</li>
+  <li><a href="https://www.games4coins.com/">Games4Coins</a> (Steam games. Only accept BTX.)</li>
 </ul>
 
 {% include page-toc.html %}
 
-<h2 id="wallets">Which wallets can I use?</h2>
+<h2 id="wallets">Which Wallets Can I Use?</h2>
 <p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
 <ul>
   <li><a href="https://bitcore.cc/eco-system-2/">Bitcore QT</a></li>
   <li><a href="https://github.com/LIMXTEC/electrum-bitcore/releases">Electrum</a></li>
   <li><a href="https://jaxx.io/downloads.html">Jaxx Liberty</a></li>
-  <li><a href="https://zeltrez.io/downloads/">Zelcore</a><iframe width="700" height="394" src="https://www.youtube.com/embed/H2N9ZjcgMcg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li>
+  <li><a href="https://zeltrez.io/downloads/">Zelcore</a></li>
 </ul></p>
 </p>
 
@@ -110,15 +109,15 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>Bitcore was initially created on April 28th as an experimental scaling solution by the Bitsend development team that has continually provided their community with innovative and transparent development. Bitcore was started without an ICO but instead with a pre-mine that allows the development team to fairly and widely distribute coins to a rapidly growing community. </p>
 
-<p>The pre-mine was done in the form of a Bitcoin snapshot at block 463619. All Bitcoin holders, at the time of the snapshot, could  claim their requisite Bitcore through the official website at a 1 to 1 ratio until October 30th, 2017. A second snapshot was made at block 492820 on November 2nd, 2017. Anyone owning at least .01 BTC at the time can claim BTX coins at a 1 to 2 ratio. These coins can still be claimed.  For instructions, see <a href="https://steemit.com/crypto-news/@xwerk/bitcore-btx-guide-the-2nd-snapshot-for-btc-hodlers-free-btx-or-how-it-works">here</a></p>
+<p>The pre-mine was done in the form of a Bitcoin snapshot at block 463619. All Bitcoin holders, at the time of the snapshot, could  claim their requisite Bitcore through the official website at a 1 to 1 ratio until October 30th, 2017. A second snapshot was made at block 492,820 on November 2nd, 2017. Anyone owning at least .01 BTC at the time can claim BTX coins at a 1 to 2 ratio. These coins can still be claimed.  For instructions, see <a href="https://steemit.com/crypto-news/@xwerk/bitcore-btx-guide-the-2nd-snapshot-for-btc-hodlers-free-btx-or-how-it-works">here</a></p>
 
-<p>In addition to the claiming, every Monday there were 3 percent weekly airdrops on all address balances greater than 1 BTX, with the percentage rising by 1% every month (so the first month would be 3 percent weekly, the next month would be 4 percent weekly, etc). This airdrop process ended at the end of April, 2018.</p>
+<p>In addition to the claiming, every Monday there were 3 percent weekly airdrops on all address balances greater than 1 BTX, with the percentage rising by 1% every month (so the first month would be 3 percent weekly, the next month would be 4 percent weekly, etc). This airdrop process ended at the end of April 2018.</p>
 
 {% include page-toc.html %}
 
 <p>The rapid speed and unrivaled scaling easily positions Bitcore to be able to act as an everyday currency in the future. If that was not enough innovation, Bitcore also has a unique difficulty algorithm called Bitcore 64_15. This algorithm ensures that there is no more than a 15 percent change in difficulty within a 64 block period.</p> 
 
-<p>This innovative difficulty adjustment method prevents the block time issues that have plagued <a href="/what-is-bcash/">Bitcoin Cash</a>. The last major selling point is that the Bitcore blockchain currently is about 1 GB which means running the blockchain requires very little storage space compared to Bitcoin and its popular forks.</p>
+<p>This innovative difficulty adjustment method prevents the block time issues that have plagued <a href="/what-is-bcash/">Bitcoin Cash</a>. The last major point is that the Bitcore blockchain currently is about 1 GB which means running the blockchain requires very little storage space compared to Bitcoin and its popular forks.</p>
 
 <center><img src="/images/bitcore-102.jpg" alt="bitcore"></center>
 
