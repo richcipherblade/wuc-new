@@ -16,7 +16,7 @@ toc:
   claiming: How Can I Claim Bitcore?
   latest: Future Development
 img: bitcore.png
-category: appcoin
+category: altcoin
 summary: Bitcore is the first known cryptocurrency to use the hybrid fork method to distribute BTX to Bitcoin holders.
 ---
 
