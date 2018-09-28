@@ -31,7 +31,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>It combines the latest Bitcoin crypto technology, including SegWit (enabled by default), Core 0.15 and Bloom, together with a 20 MB block size, fast 2.5 minutes block times, a new lowsized blockchain (~1 GB) and completely new tech like the smooth Diff64_15 difficulty algorithm and the GPU-mining algorithm Timetravel10. The mining algorithm is ASIC-resistant <a href="/video-mining-bitcoin-and-genesis-mining/">mining algorithm</a>, and the transaction fees are very low.  Total coin supply, the halving schedule and the <a href="/video-qa-scaling-and-the-block-size-debate/">actual block reward</a> are similar to Bitcoin. </p>
 
-<p>The low blockchain size is a result of Bitcore not beeing a fork of Bitcoin like Bitcoin Cash or Bitcoin Gold. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
+<p>The low blockchain size is a result of Bitcore not being a fork of Bitcoin like Bitcoin Cash or Bitcoin Gold. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
 
 <h4>Hybrid Fork</h4>
 
@@ -49,7 +49,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>To put this in perspective, the Bitcore network can handle an entire years worth of Bitcoin transactions, at the rate as of January 2018, in only three days. To do another comparison, Bitcore nearly matches Paypal in transactions per second. Bitcore transactions are completed within seconds, as is demonstrated in the General Bytes ATM video above. </p>
 
-<center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
+<center><img src="/images/bitcore-102.png" alt="bitcore comparison chart"></center>
 
 {% include page-toc.html %}
 
@@ -114,7 +114,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>This innovative difficulty adjustment method prevents the block time issues that have plagued <a href="/what-is-bcash/">Bitcoin Cash</a>. The last major point is that the Bitcore blockchain currently is about 1 GB which means running the blockchain requires very little storage space compared to Bitcoin and its popular forks.</p>
 
-<center><img src="/images/bitcore-102.jpg" alt="bitcore"></center>
+<center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
 
 <h2 id="latest">Future Development</h2>
 
