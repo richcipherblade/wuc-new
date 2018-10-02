@@ -73,6 +73,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <p>Bitcore can be purchased in four ways :
 <ul>
   <li>Via any of the cryptocurrency markets listed on <a href="https://coinmarketcap.com/currencies/bitcore/#markets">CoinmarketCap's BTX Page</a></li>
+  <li>Via <a href="https://komodoplatform.com/decentralized-exchange/">BarterDEX</a></li>
   <li>Via <a href="https://easyrabbit.net/?buy=btx">EasyRabbit</a></li>
   <li>Via <a href="https://instaswap.io/">Instaswap</a></li>
 </ul>
@@ -93,6 +94,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
 <ul>
   <li><a href="https://bitcore.cc/eco-system-2/">Bitcore QT</a></li>
+  <li><a href="https://www.coinomi.com/">Coinomi</a></li>
   <li><a href="https://github.com/LIMXTEC/electrum-bitcore/releases">Electrum</a></li>
   <li><a href="https://jaxx.io/downloads.html">Jaxx Liberty</a></li>
   <li><a href="https://zeltrez.io/downloads/">Zelcore</a></li>
@@ -100,7 +102,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 </p>
 
 <h2 id="mining">How Can I Mine Bitcore?</h2>
-<p>13 mining pools are avaiable for Bitcore, as specified <a href="https://bitcore.cc/eco-system-2/">here</a></p>
+<p>Many mining pools are available for Bitcore, as specified <a href="https://bitcore.cc/eco-system-2/">here</a></p>
 
 <h4 id="claiming">How Can I Claim Bitcore?</h4>
 
