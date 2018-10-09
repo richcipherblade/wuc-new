@@ -17,6 +17,7 @@ toc:
   wallets: Which Wallets Can I Use?
   mining: How Can I Mine Bitcore?
   claiming: How Can I Claim Bitcore?
+  sending: Sending Bitcore via Email
   latest: Future Development
 img: bitcore.png
 category: altcoin
@@ -137,6 +138,9 @@ Commerce would grind to a halt if people had to wait an hour after initiating a 
 <p>The rapid speed and unrivaled scaling easily positions Bitcore to be able to act as an everyday currency in the future. If that was not enough innovation, Bitcore also has a unique difficulty algorithm called Bitcore 64_15. This algorithm ensures that there is no more than a 15 percent change in difficulty within a 64 block period.</p> 
 
 <p>This innovative difficulty adjustment method prevents the block time issues that have plagued <a href="/what-is-bcash/">Bitcoin Cash</a>. The last major point is that the Bitcore blockchain currently is about 1 GB which means running the blockchain requires very little storage space compared to Bitcoin and its popular forks.</p>
+
+<h2 id="sending">Sending Bitcore via Email</h2>
+<p>A DropCoin platform allows users to send Bitcore in any way they can share it on any service (Email, Facebook, Dropbox, Twitter, WhatsApp, and Telegram etc.) or any chat, even without having any technical knowledge of cryptocurrency. The service can be accessed <a href="http://www.dropcoin.cc/">here</a>.</p>
 
 <center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
 
