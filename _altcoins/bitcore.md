@@ -78,12 +78,13 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 {% include page-toc.html %}
 
 <h2 id="buy">How Can I Buy Bitcore?</h2>
-<p>Bitcore can be purchased in four ways :
+<p>Bitcore can be purchased in five ways :
 <ul>
   <li>Via any of the cryptocurrency markets listed on <a href="https://coinmarketcap.com/currencies/bitcore/#markets">CoinmarketCap's BTX Page</a></li>
   <li>Via <a href="https://komodoplatform.com/decentralized-exchange/">BarterDEX</a></li>
   <li>Via <a href="https://easyrabbit.net/?buy=btx">EasyRabbit</a></li>
   <li>Via <a href="https://instaswap.io/">Instaswap</a></li>
+  <li>Via credit card (Visa or Mastercard) at <a href="https://indacoin.com/">Indacoin</a></li>
 </ul>
 </p>
 {% include page-toc.html %}
