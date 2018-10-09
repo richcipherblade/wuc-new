@@ -8,15 +8,16 @@ authorurl: /
 published: true
 toc: 
   what: What Is Bitcore?
-  chart: Comparison Among Bitcoin, Bitcoin Cash, Bitcoin Gold, and BitCore
+  chart: BTC vs BCH vs BTG vs BTX
   resources: Bitcore Resources 
   buy: How Can I Buy Bitcore?
   use: Where Can I Spend Bitcore?
-  accept: How Can I Accept Bitcore Payments On My Website?
-  why: WHY Should I Accept Bitcore Payments On My Website?
+  accept: How Can My Website Accept Bitcore?
+  why: Why Should My Website Accept Bitcore?
   wallets: Which Wallets Can I Use?
   mining: How Can I Mine Bitcore?
   claiming: How Can I Claim Bitcore?
+  sending: Sending Bitcore via Email
   latest: Future Development
 img: bitcore.png
 category: altcoin
@@ -34,7 +35,9 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>It combines the latest Bitcoin crypto technology, including SegWit (enabled by default), Core 0.15 and Bloom, together with a 20 MB block size, fast 2.5 minutes block times, a new lowsized blockchain (~1 GB) and completely new tech like the smooth Diff64_15 difficulty algorithm and the GPU-mining algorithm Timetravel10. The mining algorithm is ASIC-resistant <a href="/video-mining-bitcoin-and-genesis-mining/">mining algorithm</a>, and the transaction fees are very low.  Total coin supply, the halving schedule and the <a href="/video-qa-scaling-and-the-block-size-debate/">actual block reward</a> are similar to Bitcoin. </p>
 
-<p>The low blockchain size is a result of Bitcore not being a fork of Bitcoin like Bitcoin Cash or Bitcoin Gold. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
+<p>The low blockchain size is a result of Bitcore not being a fork of Bitcoin like Bitcoin Cash or <a href="/what-is-bitcoin-gold/">Bitcoin Gold</a>. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
+
+{% include page-toc.html %}
 
 <h4>Hybrid Fork</h4>
 
@@ -52,7 +55,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>To put this in perspective, the Bitcore network can handle an entire years worth of Bitcoin transactions, at the rate as of January 2018, in only three days. To do another comparison, Bitcore nearly matches Paypal in transactions per second. Bitcore transactions are completed within seconds, as is demonstrated in the General Bytes ATM video above. </p>
 
-<h2 id="chart">Comparison Among Bitcoin, Bitcoin Cash, Bitcoin Gold, and BitCore</h2>
+<h2 id="chart">BTC vs BCH vs BTG vs BTX</h2>
 <center><img src="/images/bitcore-102.png" alt="bitcore comparison chart"></center>
 
 {% include page-toc.html %}
@@ -74,12 +77,13 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 </ul>
 
 <h2 id="buy">How Can I Buy Bitcore?</h2>
-<p>Bitcore can be purchased in four ways :
+<p>Bitcore can be purchased in five ways :
 <ul>
   <li>Via any of the cryptocurrency markets listed on <a href="https://coinmarketcap.com/currencies/bitcore/#markets">CoinmarketCap's BTX Page</a></li>
   <li>Via <a href="https://komodoplatform.com/decentralized-exchange/">BarterDEX</a></li>
   <li>Via <a href="https://easyrabbit.net/?buy=btx">EasyRabbit</a></li>
   <li>Via <a href="https://instaswap.io/">Instaswap</a></li>
+  <li>Via credit card (Visa or Mastercard) at <a href="https://indacoin.com/">Indacoin</a></li>
 </ul>
 </p>
 
@@ -92,17 +96,16 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
   <li><a href="https://www.games4coins.com/">Games4Coins</a> (Steam games. Only accepts BTX.)</li>
 </ul>
 
-<h2 id="accept">How Can I Accept Bitcore Payments On My Website?</h2>
+<h2 id="accept">How Can My Website Accept Bitcore?</h2>
 <p>You can use the Coresight API described <a href="https://insight.bitcore.cc/api">here</a>.</p>
 
-<h2 id="why">WHY Should I Accept Bitcore Payments On My Website?</h2>
+<h2 id="why">Why Should My Website Accept Bitcore?</h2>
 <p> Quoting (with a few grammatical edits) from <a href="https://bitcore.cc/the-simplest-bitcore-wallet/">this news article</a> : <br/><br/>
 Commerce would grind to a halt if people had to wait an hour after initiating a payment for confirmation before they could receive goods or services. After all, people often complain about having to wait a few seconds for chip – based credit cards to process in the line at the grocery store. Because of technical features of Bitcore, it is worth adding Bitcore as a payment option if you run an e-commerce store, bill payment center, online game center and more. BTX provides users with a low cost and rapid solution for digital payments, as described in the comparison chart.
 </p>
 {% include page-toc.html %}
 <p>The code for an open-source example of the use of the Coresight API can be found <a href="https://github.com/dArkjON/tsbw">here</a>.</p>
 <p>The example running live can be found <a href="https://bitcore.cc/tsbw/btx/">here</a>.</p>
-{% include page-toc.html %}
 
 <h2 id="wallets">Which Wallets Can I Use?</h2>
 <p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
@@ -130,6 +133,9 @@ Commerce would grind to a halt if people had to wait an hour after initiating a 
 <p>The rapid speed and unrivaled scaling easily positions Bitcore to be able to act as an everyday currency in the future. If that was not enough innovation, Bitcore also has a unique difficulty algorithm called Bitcore 64_15. This algorithm ensures that there is no more than a 15 percent change in difficulty within a 64 block period.</p> 
 
 <p>This innovative difficulty adjustment method prevents the block time issues that have plagued <a href="/what-is-bcash/">Bitcoin Cash</a>. The last major point is that the Bitcore blockchain currently is about 1 GB which means running the blockchain requires very little storage space compared to Bitcoin and its popular forks.</p>
+
+<h2 id="sending">Sending Bitcore via Email</h2>
+<p>A DropCoin platform allows users to send Bitcore in any way they can share it on any service (Email, Facebook, Dropbox, Twitter, WhatsApp, and Telegram etc.) or any chat, even without having any technical knowledge of cryptocurrency. The service can be accessed <a href="http://www.dropcoin.cc/">here</a>.</p>
 
 <center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
 
