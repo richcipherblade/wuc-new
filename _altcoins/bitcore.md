@@ -53,7 +53,7 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <p>Bitcore can handle 48 million transactions per day, which is about 17.6 billion transactions per year. </p>
 
-<p>To put this in perspective, the Bitcore network can handle an entire years worth of Bitcoin transactions, at the rate as of January 2018, in only three days. To do another comparison, Bitcore nearly matches Paypal in transactions per second. Bitcore transactions are completed within seconds, as is demonstrated in the General Bytes ATM video above. </p>
+<p>To put this in perspective, the Bitcore network can handle an entire years worth of Bitcoin transactions, at the rate as of January 2018, in only three days. To do another comparison, Bitcore nearly matches Paypal in transactions per second. Bitcore transactions are completed within seconds. </p>
 
 <h2 id="chart">BTC vs BCH vs BTG vs BTX</h2>
 <center><img src="/images/bitcore-102.png" alt="bitcore comparison chart"></center>
@@ -101,14 +101,26 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 
 <h2 id="accept">How Can My Website Accept Bitcore?</h2>
 <p>You can use the Coresight API described <a href="https://insight.bitcore.cc/api">here</a>.</p>
-
-<h2 id="why">Why Should My Website Accept Bitcore?</h2>
-<p> Quoting (with a few grammatical edits) from <a href="https://bitcore.cc/the-simplest-bitcore-wallet/">this news article</a> : <br/><br/>
-Commerce would grind to a halt if people had to wait an hour after initiating a payment for confirmation before they could receive goods or services. After all, people often complain about having to wait a few seconds for chip – based credit cards to process in the line at the grocery store. Because of technical features of Bitcore, it is worth adding Bitcore as a payment option if you run an e-commerce store, bill payment center, online game center and more. BTX provides users with a low cost and rapid solution for digital payments, as described in the comparison chart.
-</p>
-{% include page-toc.html %}
 <p>The code for an open-source example of the use of the Coresight API can be found <a href="https://github.com/dArkjON/tsbw">here</a>.</p>
 <p>The example running live can be found <a href="https://bitcore.cc/tsbw/btx/">here</a>.</p>
+
+<h2 id="why">Why Should My Website Accept Bitcore?</h2>
+<p>Using Bitcore BTX as a payment method instead of using the traditional methods in your business offers the
+following benefits :</p>
+  <ul>
+  <li>Immediate availability<br/><br/>
+There  is  no third  party-dependent  waiting  period  the  way there  is with  bank-owned  payments. Once
+payment is successful, the transaction amount is in your wallet and accessible immediately due to Bitcore's
+technical features such as Larger Block Size and Shorter Block Times which allow more transactions and faster confirmations. You can  convert Bitcore into your local currency fiat at the end of each transaction, at the end of each working day or according to a custom set schedule.<br/><br/></li>
+  <li>Lower transaction costs<br/><br/>
+Credit card payments usually end up costing you a 2 to 4 percent fee. With Bitcoin, this amount is a low flat fee, not a percentage of the transaction. And with Bitcore, this amount is a low flat fee according to Bitcoin.<br/><br/></li>
+  <li>Eliminate chargeback fraud<br/><br/>
+A Bitcore transaction is immutable. Once a client has paid for a product or service, the money is in your account. Unlike credit card payments, charges cannot be reversed.<br/><br/></li>
+  <li>Attract new customers<br/><br/>
+As Bitcore rises in popularity, more users seek out participating businesses.  This can mean exposure to a clientele you didn't have before.<br/><br/></li>
+ </ul>
+
+{% include page-toc.html %}
 
 <h2 id="wallets">Which Wallets Can I Use?</h2>
 <p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
