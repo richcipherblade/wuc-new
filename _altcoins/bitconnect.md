@@ -139,7 +139,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 
 <h2 id="resources">BitConnect Resources</h2>
 <ul>
-<li><a href="https://bitconnect.co/"> BitConnect Official Website</a></li>
+<li><a href="https://totalcrypto.io/bitconnect-scam/"> BitConnect Website</a></li>
 <li><a href="https://github.com/bitconnectcoin/bitconnectcoin">BitConnect Github</a></li>
 <li><a href="https://twitter.com/bitconnect">BitConnect Twitter</a></li>
 <li><a href="https://www.reddit.com/r/Bitconnect/">BitConnect Reddit</a></li>
