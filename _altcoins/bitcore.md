@@ -19,6 +19,7 @@ toc:
   mining: How Can I Mine Bitcore?
   claiming: How Can I Claim Bitcore?
   sending: Sending Bitcore via Email
+  collab: Collaborations
   latest: Future Development
 img: bitcore.png
 category: altcoin
@@ -169,6 +170,16 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 
 <center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
 
+<h2 id="collab">Collaborations</h2>
+<p>Bitcore has collaborated with other cryptocurrency projects in order to improve the entire crypto-space.</p>
+<ul>
+  <li><a href="/what-is-dash/">Dash</a> - for a crypto solution for BB bank<sup>1</sup></li>
+  <li>Kaze - to allow crypto-gas payments in multiple currencies<sup>2</sup></li>
+</ul>
+<p>Sources:
+<sup>1</sup><a href="https://www.reddit.com/r/bitcore_btx/comments/9vctfx/bitcore_btx_bitcoredash_project_wins_bb_bank_good/">reddit</a>, 
+  <sup>2</sup><a href="https://www.youtube.com/watch?v=vL0IYutiyhQ">youtube</a>
+</p>
 <h2 id="latest">Future Development</h2>
 
 <p>The development team is currently experimenting with cross chain atomic swaps, lightning network, Schnorr’s Signature, and even more initiatives to stay on the cutting edge of technology. To follow current development please subscribe to the team's social media accounts listed <a href="https://bitcore.cc/community/">here</a>.</p>
