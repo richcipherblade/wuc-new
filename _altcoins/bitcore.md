@@ -94,7 +94,6 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <h2 id="use">Where Can I Spend Bitcore?</h2>
 <p>Bitcore can be spent at the following sites : 
 <ul>
-  <li><a href="https://livingroomofsatoshi.com/">Living Room of Satoshi</a></li>
   <li><a href="https://www.kamoney.com.br/">Kamoney</a></li>
   <li><a href="https://luckygames.io/">Luckygames</a> (betting site)</li>
   <li><a href="https://www.games4coins.com/">Games4Coins</a> (Steam games. Only accept BTX.)</li>
