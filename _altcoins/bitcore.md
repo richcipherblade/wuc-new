@@ -13,11 +13,13 @@ toc:
   buy: How Can I Buy Bitcore?
   use: Where Can I Spend Bitcore?
   accept: How Can My Website Accept Bitcore?
-  why: Why Should My Website Accept Bitcore?
+  acceptstore: How Can My Retail Store Accept Bitcore?
+  why: Why Should I, as a Merchant, Accept Bitcore?
   wallets: Which Wallets Can I Use?
   mining: How Can I Mine Bitcore?
   claiming: How Can I Claim Bitcore?
   sending: Sending Bitcore via Email
+  collab: Collaborations
   latest: Future Development
 img: bitcore.png
 category: altcoin
@@ -90,18 +92,29 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <h2 id="use">Where Can I Spend Bitcore?</h2>
 <p>Bitcore can be spent at the following sites : 
 <ul>
-  <li><a href="https://livingroomofsatoshi.com/">Living Room of Satoshi</a></li>
   <li><a href="https://www.kamoney.com.br/">Kamoney</a></li>
   <li><a href="https://luckygames.io/">Luckygames</a> (betting site)</li>
   <li><a href="https://www.games4coins.com/">Games4Coins</a> (Steam games. Only accepts BTX.)</li>
 </ul>
+</p>
+<p>Bitcore can also be spent at retail merchants which follow the guidelines under "How Can My Retail Store Accept Bitcore?".</p>
 
 <h2 id="accept">How Can My Website Accept Bitcore?</h2>
 <p>You can use the Coresight API described <a href="https://insight.bitcore.cc/api">here</a>.</p>
 <p>The code for an open-source example of the use of the Coresight API can be found <a href="https://github.com/dArkjON/tsbw">here</a>.</p>
 <p>The example running live can be found <a href="https://bitcore.cc/tsbw/btx/">here</a>.</p>
+<p>If you use a web e-commerce platform, you can also integrate modules from these vendors to handle bitcore payments:</p>
+<table>
+  <thead><tr><th>Platform</th><th>Vendor</th></tr></thead>
+  <tbody>
+    <tr><td>WooCommerce / WordPress</td><td><a href="https://medium.com/@paytomat/paytomat-launches-crypto-gateway-plugin-for-woocommerce-211b897821f3">Paytomat</a></td></tr>
+  </tbody>
+</table>
 
-<h2 id="why">Why Should My Website Accept Bitcore?</h2>
+<h2 id="acceptstore">How Can My Retail Store Accept Bitcore?</h2>
+<p>Bitcore support is built into POS terminals from <a href="https://paytomat.com/">Paytomat</a></p>
+
+<h2 id="why">Why Should I, as a Merchant, Accept Bitcore?</h2>
 <p>Using Bitcore BTX as a payment method instead of using the traditional methods in your business offers the
 following benefits :</p>
   <ul>
@@ -128,6 +141,7 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
   <li><a href="https://github.com/LIMXTEC/electrum-bitcore/releases">Electrum</a></li>
   <li><a href="https://jaxx.io/downloads.html">Jaxx Liberty</a></li>
   <li><a href="https://zeltrez.io/downloads/">Zelcore</a></li>
+  <li><a href="https://paytomat.com/">Paytomat</a></li>
 </ul></p>
 </p>
 
@@ -151,6 +165,16 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 
 <center><img src="/images/bitcore-104.jpg" alt="bitcore"></center>
 
+<h2 id="collab">Collaborations</h2>
+<p>Bitcore has collaborated with other cryptocurrency projects in order to improve the entire crypto-space.</p>
+<ul>
+  <li><a href="/what-is-dash/">Dash</a> - for a crypto solution for BB bank<sup>1</sup></li>
+  <li>Kaze - to allow crypto-gas payments in multiple currencies<sup>2</sup></li>
+</ul>
+<p>Sources:
+<sup>1</sup><a href="https://www.reddit.com/r/bitcore_btx/comments/9vctfx/bitcore_btx_bitcoredash_project_wins_bb_bank_good/">reddit</a>, 
+  <sup>2</sup><a href="https://www.youtube.com/watch?v=vL0IYutiyhQ">youtube</a>
+</p>
 <h2 id="latest">Future Development</h2>
 
 <p>The development team is currently experimenting with cross chain atomic swaps, lightning network, Schnorr’s Signature, and even more initiatives to stay on the cutting edge of technology. To follow current development please subscribe to the team's social media accounts listed <a href="https://bitcore.cc/community/">here</a>.</p>
