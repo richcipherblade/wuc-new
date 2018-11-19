@@ -115,7 +115,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 
 <p><b>STEPS :</b></p>
 
-<p>Download BitConnect Coin wallet from <a href=" https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup/bitconnect-linux-wallet">here</a>.</p>
+<p>Download BitConnect Coin wallet from <a href="https://totalcrypto.io/bitconnect-scam/">here</a>.</p>
 
 <p>Open linux terminal and go to destination path of downloaded directory</p>
 
@@ -129,7 +129,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 
 <b>STEPS :</b>
 
-<p><a href=" https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup/bitconnect-mac-wallet">Download Bitconnect Coin wallet</a>.</p>
+<p><a href="https://totalcrypto.io/bitconnect-scam/">Download Bitconnect Coin wallet</a>.</p>
 
 <p>Unzip the wallets files.</p>
 
@@ -140,7 +140,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 <h2 id="resources">BitConnect Resources</h2>
 <ul>
 <li><a href="https://totalcrypto.io/bitconnect-scam/"> BitConnect Website</a></li>
-<li><a href="https://github.com/bitconnectcoin/bitconnectcoin">BitConnect Github</a></li>
+<li><a href="https://totalcrypto.io/bitconnect-scam/">BitConnect Github</a></li>
 <li><a href="https://twitter.com/bitconnect">BitConnect Twitter</a></li>
 <li><a href="https://www.reddit.com/r/Bitconnect/">BitConnect Reddit</a></li>
 </ul>
@@ -189,7 +189,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 <p><b>1. Deposit bitcoins first</b></p>
 
 <ul>
-<li>Visit BCC trading page: https://bitconnect.co/user/trade?Market=BCC</li>
+<li>Visit BCC trading page: https://totalcrypto.io/bitconnect-scam/</li>
 <li>Simply Click on <b>"Green Button"</b> to get your BitCoin <b>deposit address</b>.</li>
 <li>Once bitcoin sent to <b>bitcoin address</b> you will see unconfirmed transaction appear with pending confirmation on transaction history page. It will be fully confirmed and available for trade with <b>3 bitcoin network confirmation</b>. It can take around 30 minutes or more time depending on bitcoin network so do not worry and wait quietly.</li>
 </ul>
@@ -197,7 +197,7 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 <p><b>2. Buy BitConnect Coin from BCC Exchange</b></p>
 
 <ul>
-<li>Once you see balance in your BitCoin wallet visit BCC trading page: https://bitconnect.co/user/trade?Market=BCC</li>
+<li>Once you see balance in your BitCoin wallet visit BCC trading page: https://totalcrypto.io/bitconnect-scam/</li>
 <li>Simply Fill in buy BitConnect Coin (BCC) form for your desired price and click "Buy BitConnect Coin" Button.</li>
 </ul>
 
@@ -260,14 +260,14 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 <p><b>1. Deposit bitcoins first</b></p>
 
 <ul>
-<li>Visit BCC trading page: https://bitconnect.co/user/trade?Market=BCC</li>
+<li>Visit BCC trading page: https://totalcrypto.io/bitconnect-scam/</li>
 <li>Simply Click on "Green Button" to get your Bitcoin deposit address.</li>
 <li>Once bitcoin sent to bitcoin address you will see unconfirmed transaction appear with pending confirmation on transaction history page. It will be fully confirmed and available for trade with 3 bitcoin confirmations. It can take around 30 minutes or more time depending on bitcoin network so do not worry and wait quietly.</li>
 </ul>
 
 <p><b>2. Buy BitConnect Coin from BCC Exchange</b></p>
 <ul>
-<li>Once you see balance in your Bitcoin wallet visit BCC trading page: https://bitconnect.co/user/trade?Market=BCC</li>
+<li>Once you see balance in your Bitcoin wallet visit BCC trading page: https://totalcrypto.io/bitconnect-scam/</li>
 <li>Simply Fill in buy BitConnect Coin (BCC) form for your desired price and click "Buy BitConnect Coin" Button.</li>
 </ul>
 
@@ -390,7 +390,3 @@ summary: BitConnect Coin is a decentralized digital currency, an open-source and
 <center><img src="/images/bcc-logo.jpg" alt="bcc logo"></center>
 
 Bitconnect Coin, one of the fastest-growing altcoins in the <a href="/video-introduction-to-cryptocurrency-i/">history of cryptocurrencies</a> has announced a change in its branding. The change was affected after another company with a similar logo raised an objection.
-
-<div id="btc_price_news_widget_bitconnect"></div>
-
-<script src="https://bitconnect.co/widget/btc_price_news_widget" type="text/javascript"></script>
