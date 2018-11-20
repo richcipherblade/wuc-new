@@ -33,13 +33,15 @@ summary: Bitcore is the first known cryptocurrency to use the hybrid fork method
 <p>Bitcore (BTX) is a new cryptocurrency, created in April 2017 by the talented developers of Bitsend (BSD). 
 It is a hybrid fork: We created a new chain so our blockchain stays super-tiny with currently about 1 GB in size, but we also copied over 5 million balances from the <a href="/what-is-bitcoin/">Bitcoin</a> chain to the Bitcore chain, giving 0.5 BTX : 1.0 BTC. </p>
 
+{% include page-toc.html %}
+
 <center><img src="/images/bitcore-103.jpg" alt="bitcore"></center>
+
+<p>image courtesy of https://www.reddit.com/user/MrTrocket. </p>
 
 <p>It combines the latest Bitcoin crypto technology, including SegWit (enabled by default), Core 0.15 and Bloom, together with a 20 MB block size, fast 2.5 minutes block times, a new lowsized blockchain (~1 GB) and completely new tech like the smooth Diff64_15 difficulty algorithm and the GPU-mining algorithm Timetravel10. The mining algorithm is ASIC-resistant <a href="/video-mining-bitcoin-and-genesis-mining/">mining algorithm</a>, and the transaction fees are very low.  Total coin supply, the halving schedule and the <a href="/video-qa-scaling-and-the-block-size-debate/">actual block reward</a> are similar to Bitcoin. </p>
 
 <p>The low blockchain size is a result of Bitcore not being a fork of Bitcoin like Bitcoin Cash or <a href="/what-is-bitcoin-gold/">Bitcoin Gold</a>. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
-
-{% include page-toc.html %}
 
 <h4>Hybrid Fork</h4>
 
