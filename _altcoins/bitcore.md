@@ -173,7 +173,6 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 <p>Bitcore has collaborated with other cryptocurrency projects in order to improve the entire crypto-space.</p>
 <ul>
   <li><a href="/what-is-dash/">Dash</a> - for a crypto solution for BB bank. <a href="https://www.reddit.com/r/bitcore_btx/comments/9vctfx/bitcore_btx_bitcoredash_project_wins_bb_bank_good/">source</a></li>
-  <li>Kaze - to allow crypto-gas payments in multiple currencies. <a href="https://www.youtube.com/watch?v=vL0IYutiyhQ">source</a></li>
 </ul>
 <h2 id="latest">Future Development</h2>
 
