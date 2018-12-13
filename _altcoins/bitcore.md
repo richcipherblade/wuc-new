@@ -145,6 +145,11 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
   <li><a href="https://zeltrez.io/downloads/">Zelcore</a></li>
   <li><a href="https://paytomat.com/">Paytomat</a></li>
 </ul>
+Hardware wallets : 
+<ul>
+  <li><a href="https://bitcore.cc/new-version-of-the-electrum-btx-3-2-3/">Electrum 3.2.3</a> (allows integration with Trezor)</li>
+  <li><a href="https://www.reddit.com/r/bitcore_btx/comments/a5m3js/bitcore_btx_ellipals_hardware_wallet_for_bitcore/">Ellipal</a></li>
+</ul>
 </p>
 
 <h2 id="mining">How Can I Mine Bitcore?</h2>
