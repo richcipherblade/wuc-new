@@ -135,7 +135,7 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 {% include page-toc.html %}
 
 <h2 id="wallets">Which Wallets Can I Use?</h2>
-<p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
+<p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a> or <a href="https://twitter.com/Bitcore_BTX/status/1068562689071431681">DeltaDirect</a>, as well as with these wallets:
 <ul>
   <li><a href="https://bitcore.cc/eco-system-2/">Bitcore QT</a></li>
   <li><a href="https://bitcore.cc/tsbw/btx/">Bitcore TSBW</a></li>
