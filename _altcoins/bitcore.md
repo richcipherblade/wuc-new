@@ -33,13 +33,15 @@ summary: Bitcore is the first known cryptocurrency to use the hybrid fork method
 <p>Bitcore (BTX) is a new cryptocurrency, created in April 2017 by the talented developers of Bitsend (BSD). 
 It is a hybrid fork: We created a new chain so our blockchain stays super-tiny with currently about 1 GB in size, but we also copied over 5 million balances from the <a href="/what-is-bitcoin/">Bitcoin</a> chain to the Bitcore chain, giving 0.5 BTX : 1.0 BTC. </p>
 
+{% include page-toc.html %}
+
 <center><img src="/images/bitcore-103.jpg" alt="bitcore"></center>
+
+<p>image courtesy of https://www.reddit.com/user/MrTrocket. </p>
 
 <p>It combines the latest Bitcoin crypto technology, including SegWit (enabled by default), Core 0.15 and Bloom, together with a 20 MB block size, fast 2.5 minutes block times, a new lowsized blockchain (~1 GB) and completely new tech like the smooth Diff64_15 difficulty algorithm and the GPU-mining algorithm Timetravel10. The mining algorithm is ASIC-resistant <a href="/video-mining-bitcoin-and-genesis-mining/">mining algorithm</a>, and the transaction fees are very low.  Total coin supply, the halving schedule and the <a href="/video-qa-scaling-and-the-block-size-debate/">actual block reward</a> are similar to Bitcoin. </p>
 
 <p>The low blockchain size is a result of Bitcore not being a fork of Bitcoin like Bitcoin Cash or <a href="/what-is-bitcoin-gold/">Bitcoin Gold</a>. Instead it uses a new blockchain which makes use of the genuine hybrid fork method. </p>
-
-{% include page-toc.html %}
 
 <h4>Hybrid Fork</h4>
 
@@ -104,12 +106,9 @@ It is a hybrid fork: We created a new chain so our blockchain stays super-tiny w
 <p>The code for an open-source example of the use of the Coresight API can be found <a href="https://github.com/dArkjON/tsbw">here</a>.</p>
 <p>The example running live can be found <a href="https://bitcore.cc/tsbw/btx/">here</a>.</p>
 <p>If you use a web e-commerce platform, you can also integrate modules from these vendors to handle bitcore payments:</p>
-<table>
-  <thead><tr><th>Platform</th><th>Vendor</th></tr></thead>
-  <tbody>
-    <tr><td>WooCommerce / WordPress</td><td><a href="https://medium.com/@paytomat/paytomat-launches-crypto-gateway-plugin-for-woocommerce-211b897821f3">Paytomat</a></td></tr>
-  </tbody>
-</table>
+|Platform                |Vendor    |
+|------------------------|----------|
+|WooCommerce / WordPress | <a href="https://medium.com/@paytomat/paytomat-launches-crypto-gateway-plugin-for-woocommerce-211b897821f3">Paytomat</a> |
 
 <h2 id="acceptstore">How Can My Retail Store Accept Bitcore?</h2>
 <p>Bitcore support is built into POS terminals from <a href="https://paytomat.com/">Paytomat</a></p>
@@ -133,7 +132,7 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 {% include page-toc.html %}
 
 <h2 id="wallets">Which Wallets Can I Use?</h2>
-<p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a>, as well as with these wallets:
+<p>You can track your bitcore portfolio using <a href="https://www.cryptonaut.org/">Cryptonaut</a> or <a href="https://twitter.com/Bitcore_BTX/status/1068562689071431681">DeltaDirect</a>, as well as with these wallets:
 <ul>
   <li><a href="https://bitcore.cc/eco-system-2/">Bitcore QT</a></li>
   <li><a href="https://bitcore.cc/tsbw/btx/">Bitcore TSBW</a></li>
@@ -142,7 +141,12 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
   <li><a href="https://jaxx.io/downloads.html">Jaxx Liberty</a></li>
   <li><a href="https://zeltrez.io/downloads/">Zelcore</a></li>
   <li><a href="https://paytomat.com/">Paytomat</a></li>
-</ul></p>
+</ul>
+Hardware wallets : 
+<ul>
+  <li><a href="https://bitcore.cc/new-version-of-the-electrum-btx-3-2-3/">Electrum 3.2.3</a> (allows integration with Trezor)</li>
+  <li><a href="https://www.reddit.com/r/bitcore_btx/comments/a5m3js/bitcore_btx_ellipals_hardware_wallet_for_bitcore/">Ellipal</a></li>
+</ul>
 </p>
 
 <h2 id="mining">How Can I Mine Bitcore?</h2>
@@ -168,13 +172,8 @@ As Bitcore rises in popularity, more users seek out participating businesses.  T
 <h2 id="collab">Collaborations</h2>
 <p>Bitcore has collaborated with other cryptocurrency projects in order to improve the entire crypto-space.</p>
 <ul>
-  <li><a href="/what-is-dash/">Dash</a> - for a crypto solution for BB bank<sup>1</sup></li>
-  <li>Kaze - to allow crypto-gas payments in multiple currencies<sup>2</sup></li>
+  <li><a href="/what-is-dash/">Dash</a> - for a crypto solution for BB bank. <a href="https://www.reddit.com/r/bitcore_btx/comments/9vctfx/bitcore_btx_bitcoredash_project_wins_bb_bank_good/">source</a></li>
 </ul>
-<p>Sources:
-<sup>1</sup><a href="https://www.reddit.com/r/bitcore_btx/comments/9vctfx/bitcore_btx_bitcoredash_project_wins_bb_bank_good/">reddit</a>, 
-  <sup>2</sup><a href="https://www.youtube.com/watch?v=vL0IYutiyhQ">youtube</a>
-</p>
 <h2 id="latest">Future Development</h2>
 
 <p>The development team is currently experimenting with cross chain atomic swaps, lightning network, Schnorr’s Signature, and even more initiatives to stay on the cutting edge of technology. To follow current development please subscribe to the team's social media accounts listed <a href="https://bitcore.cc/community/">here</a>.</p>
