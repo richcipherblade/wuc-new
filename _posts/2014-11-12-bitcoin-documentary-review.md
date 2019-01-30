@@ -15,10 +15,10 @@ published: true
 
 <h2>PODCAST INTERVIEW TRANSCRIPT</h2>
 
-<h2><strong>bitcoin documentary review: Interview with Daniel Mross on The Rise and Rise of Bitcoin</strong></h2>
+<h2><strong>Bitcoin documentary review: Interview with Daniel Mross on The Rise and Rise of Bitcoin</strong></h2>
 </p><p>
 
-<strong>Trace Mayer</strong>:  Welcome back to the bitcoin Knowledge Podcast.  We have a really artistic interview here.  We have Daniel Mross.  He put together this whole Rise and Rise of Bitcoin documentary.  Welcome to the podcast, Daniel.
+<strong>Trace Mayer</strong>:  Welcome back to the Bitcoin Knowledge Podcast.  We have a really artistic interview here.  We have Daniel Mross.  He put together this whole Rise and Rise of Bitcoin documentary.  Welcome to the podcast, Daniel.
 
 </p><p>
 
