@@ -1,11 +1,11 @@
 ---
-title: Andrew Poelstra - Mathematician, Blockstream
+title: Andrew Poelstra
 img: /images/andrew-poelstra.png
 position: Mathematician, Blockstream
 education: Masters of Arts at the University of Texas at Austin
 experience:
 short_desc: Andrew Poelstra is a mathematician at Blockstream.
-long_desc: He became involved in Bitcoin in late 2011, and joined Blockstream cofounders Greg Maxwell and Pieter Wuille in developing the high-performance cryptography library libsecp256k1.
+long_desc: He became involved in Bitcoin in late 2011 and joined Blockstream co-founders Greg Maxwell and Pieter Wuille in developing the high-performance cryptography library libsecp256k1.
 affiliations: [Bitcoin Core, Blockstream]
 twitter:
 github: apoelstra
