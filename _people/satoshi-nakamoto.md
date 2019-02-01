@@ -1,6 +1,6 @@
 ---
 title: Satoshi Nakamoto
-seotitle: Satoshi Nakamoto - Inventor Of The Bitcoin Protocol
+seotitle: Satoshi Nakamoto
 img: /images/satoshi-nakamoto.png
 position: Inventor Of The Bitcoin Protocol
 education:
@@ -15,9 +15,7 @@ cats: [ ]
 website: 
 ---
 
-<p>Satoshi Nakamoto is the name used by the unknown person or persons who designed bitcoin and created its original reference implementation. As a part of the implementation, they also devised the first blockchain database. In the process they were the first to solve the double spending problem for digital currency.
-<p>They were active in the development of bitcoin up until December 2010.</p>
-
-<p>Nakamoto has claimed to be a man living in Japan, born on 5 April 1975. However, speculation about the true identity of Nakamoto has mostly focused on a number of cryptography and computer science experts of non-Japanese descent living in the United States and Europe including Nick Szabo, <a href="/dr-adam-back/">Adam Back</a> and others.</p>
-
-<p>One person, Australian programmer Craig Steven Wright or Faketoshis, has claimed to be Nakamoto but is widely thought to be a fraud. He has offered no cryptographic proof of the claim.</p>
+<p>Satoshi Nakamoto is the name used by the unknown person(s) who designed Bitcoin and created the original reference implementation thus implementing the first functional blockchain database and solving the double spending problem for digital currency.
+<p>Satoshi Nakamoto was active in Bitcoin development until December 2010. Satoshi Nakamoto was born 5 April 1975.
+<p>However, speculation regarding Satoshi Nakamoto's true identity has mostly focused on cryptography and computer science experts of non-Japanese descent living in the United States and Europe including Nick Szabo, <a href="/dr-adam-back/">Adam Back</a> and others.</p>
+<p>Australian Craig Steven Wright, also known as Faketoshi, claimed to be Nakamoto but is widely thought to be a fraud. He has offered no cryptographic proof of the claim.</p>
