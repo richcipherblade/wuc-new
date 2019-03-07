@@ -23,7 +23,7 @@ toc:
 
 <p>Each time Bitcoin’s price rises, new investors and speculators want their share of profits. Because Bitcoin is global and easy to send anywhere, trading bitcoin is simple.</p>
 
-<p>Compared to other financial instruments, Bitcoin trading has very little barrier to entry. If you already own bitcoins, you can start trading almost instantly. In many cases, verification isn’t even required in order to trade.  </p>
+<p>Compared to other financial instruments, <a href="https://www.bitcointrader.com/">Bitcoin trading</a> has very little barrier to entry. If you already own bitcoins, you can start trading almost instantly. In many cases, verification isn’t even required in order to trade.  </p>
 
 <p>If you are interested in trading Bitcoin then there are many online trading companies offering this product usually as a contract for difference or CFD.</p>
 
