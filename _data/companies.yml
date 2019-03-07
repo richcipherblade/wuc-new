@@ -1,4 +1,18 @@
 -
+    date: 31-Oct-2018
+    company: zkSNACKs
+    classification: Wallet
+    roundsize: 1.2 
+    cumulative: 1.2  
+    round: Seed
+    investors: Private    
+    headquartered: Gibraltar
+    country: Gibraltar
+    region: Europe
+    img: zksnacks.png
+    description: zkSNACKs was established to research the possibilities for Bitcoin fungibility enhancements and provide different products ensuring the desired privacy.
+    url: https://zksnacks.com/
+-
     date: 28-Oct-2017   
     company: BB KISS
     classification: Software

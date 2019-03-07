@@ -147,3 +147,11 @@
    category: desktop
    download: https://multibit.org/
    img: multibit
+
+ - wallet: Wasabi 
+   description: Wasabi is an open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux and Mac. Built-in Tor anonymity network, CoinJoin and coin control features.. 
+   category: desktop
+   download: https://www.wasabiwallet.io/
+   img: wasabi
+   tags: privacy
+   more_info: /zkSNACKs/ 
