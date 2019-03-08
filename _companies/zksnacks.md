@@ -39,12 +39,11 @@ for .NET Core. Privacy researcher, creator of ZeroLink, co-creator of NTumbleBit
 
 
 ## Social Media
-
-**Twitter:** https://twitter.com/wasabiwallet/
-
-**Github:** https://github.com/zkSNACKs/WalletWasabi/
-
-**Reddit:** https://www.reddit.com/r/WasabiWallet/
+<ul>
+<li><a href="https://twitter.com/wasabiwallet/">Twitter</a></li>
+<li><a href="https://github.com/zkSNACKs/WalletWasabi/">Github</a></li>
+<li><a href="https://www.reddit.com/r/WasabiWallet/">Reddit</a></li>
+</ul>
 
 {% for company in site.data.companies %}
 {% if company.company == 'Ascribe' %}
