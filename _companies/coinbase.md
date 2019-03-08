@@ -17,10 +17,12 @@ permalink: "/coinbase-review/"
 <p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.
 <p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
 <h2>Stats</h2>
-      <ul><li>2,500,000 <span>Users </li>
-      <li>3,900,000 <span>Wallets</li>
-      <li>40,000 <span>Merchants</li>
-      <li>7,000 <span>Developer Apps</li></ul>
+      <ul>
+      <li>2,500,000 - Users </li>
+      <li>3,900,000 - Wallets</li>
+      <li>40,000    - Merchants</li>
+      <li>7,000     - Developer Apps</li>
+      </ul>
 <center><img src="/images/coinbase-summary.png" alt="Coinbase Summary" /></center>
 
 <h1>Coinbase Review</h1> 
