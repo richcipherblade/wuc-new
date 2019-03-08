@@ -7,6 +7,13 @@ permalink: "/coinbase-review/"
 
 <center><a href="http://geni.us/coinbase" target="_blank"><img src='https://www.weusecoins.com/images/coinbase-logo.png' title='Coinbase logo' alt='Coinbase logo' width="700" height="245" border='0' ></a></center>
 <p>Founded in June of 2012, <a href="http://geni.us/coinbase" target="_blank">Coinbase</a> is a bitcoin wallet and platform where merchants and consumers can transact with the new digital currency bitcoin. We're based in San Francisco, California.
+<p>Coinbase has been severely criticized for their business and acquisitions practices. Although claiming to highly prioritize security they have:
+<ul>
+<li>Acquired a KYC team, Neutrino, with roots backdooring software and selling malware to oppressive governments to that was used to murder journalists.</li>
+<li>Recommend users store private keys in the cloud.</li>
+<li>They use SMS for 2FA.</li>
+</ul>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/TufkdtKcYHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p>Bitcoin is the world's most widely used alternative currency with a total market cap of approximately $3.5 billion. The bitcoin network is made up of thousands of computers run by individuals all over the world.
 <p>The service aims to be the easiest way to get started with Bitcoin. Its service is modeled to provide an experience familiar to those who are comfortable using PayPal.
 <h2>Stats</h2>
