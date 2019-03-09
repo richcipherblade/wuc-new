@@ -46,7 +46,7 @@ for .NET Core. Privacy researcher, creator of ZeroLink, co-creator of NTumbleBit
 </ul>
 
 {% for company in site.data.companies %}
-{% if company.company == 'Ascribe' %}
+{% if company.company == 'zkSNACKs' %}
 {% include company_list.html %}
 {% endif %}
 {% endfor %}
