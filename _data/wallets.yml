@@ -6,6 +6,14 @@
 
 ## Universal
 
+ - wallet: Atomic Wallet
+   description: Atomic Wallet is a fully decentralized, non-custodial multicurrency wallet, supporting over 300+ coins and tokens. Atomic provides an interface that allows you to not only manage, but also exchange and buy cryptocurrencies without using external services. The wallet has a built-in decentralized orderbook enabling users to exchange BTC, LTC and QTUM using the Atomic Swap technology. Atomic Wallet provides users with a 12-word mnemonic seed, so they get full access to their funds. All private keys are encrypted on an end device. 
+   category: universal
+   download: https://atomicwallet.io/bitcoin-wallet
+   img: atomic-logo
+   tags: start
+   more_info: /atomic-wallet/
+
  - wallet: Copay
    description: <p>Copay is a Bitcoin wallet by Bitpay and available on iOS, Android, Windows Phone, Linux, Max OS X, and Windows. Because Copay is available on multiple platforms, it’s easy to use the same wallet or accounts across multiple devices.</p><p>Copay’s simple, clean user interface makes it a good choice for new Bitcoin users. Copay is also a good option for businesses due to a shared account feature, which requires a certain number of users to sign each transaction. Two co-founders, for example, could create a 2 of 2 wallet where both will be required to sign each transaction.</p>
    category: universal
@@ -61,6 +69,14 @@
    img: spectrocoin
    
 ## Mobile - Android
+
+- wallet: Atomic Wallet
+   description: Atomic Wallet is available on Google Play and fully optimized for Android devices. The app provides the option to seamlessly manage and exchange 300+ coins and tokens. Private keys are encrypted on users’ device and never leave it. 
+   category: mobileandroid
+   download: https://play.google.com/store/apps/details?id=io.atomicwallet
+   img: atomic-logo
+   tags: start
+   more_info: /atomic-wallet/
 
  - wallet: breadwallet (Android)
    description: <a href="/breadwallet/">Breadwallet</a> started out as the most popular wallet for iPhone, and now it is also available for Adroid devices running Android 6.0 or higher. The simplicity and easy-to-use security makes it a great place to start for users who are new to bitcoin.
@@ -121,6 +137,14 @@
 
 ## Desktop Wallets
 
+- wallet: Atomic Wallet
+   description: Atomic Wallet is an ultimate solution for Bitcoin and 300+ other coins and tokens. The wallet enables you to store, exchange and buy BTC with a credit card. This one is the first cryptocurrency wallet with decentralized cross-chain atomic swaps on board. Users can exchange Bitcoin, Litecoin and QTUM with no intermediaries. Atomic Wallet has a desktop version for a range of operating systems, such as Windows, MacOS X, Ubuntu, Debian and Fedora. The software updates are released on a regular basis.
+   category: desktop
+   download: https://atomicwallet.io/bitcoin-wallet
+   img: atomic-logo
+   tags: start
+   more_info: /atomic-wallet/
+
  - wallet: Armory
    description: <a href="/armory/">Armory</a> is the most mature, secure and full featured Bitcoin wallet but it can be technologically intimidating for users. Whether you are an individual storing $1,000 or institution storing $1,000,000,000 this is the most secure option available. Users are in complete control all Bitcoin private keys and can setup a secure offline-signing process in Armory.
    category: desktop
@@ -147,3 +171,11 @@
    category: desktop
    download: https://multibit.org/
    img: multibit
+
+ - wallet: Wasabi 
+   description: Wasabi is an open-source, non-custodial, privacy focused Bitcoin wallet for Windows, Linux and Mac. Built-in Tor anonymity network, CoinJoin and coin control features.. 
+   category: desktop
+   download: https://www.wasabiwallet.io/
+   img: wasabi
+   tags: privacy
+   more_info: /zksnacks/ 
