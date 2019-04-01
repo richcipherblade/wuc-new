@@ -70,13 +70,11 @@
    
 ## Mobile - Android
 
-- wallet: Atomic Wallet
+- wallet: Atomic Wallet (Android)
    description: Atomic Wallet is available on Google Play and fully optimized for Android devices. The app provides the option to seamlessly manage and exchange 300+ coins and tokens. Private keys are encrypted on users’ device and never leave it. 
    category: mobileandroid
    download: https://play.google.com/store/apps/details?id=io.atomicwallet
    img: atomic-logo
-   tags: start
-   more_info: /atomic-wallet/
 
  - wallet: breadwallet (Android)
    description: <a href="/breadwallet/">Breadwallet</a> started out as the most popular wallet for iPhone, and now it is also available for Adroid devices running Android 6.0 or higher. The simplicity and easy-to-use security makes it a great place to start for users who are new to bitcoin.
