@@ -48,4 +48,6 @@ Although not recommended, it’s possible to buy ether with PayPal. First you mu
 
 ## Buy Ether with Credit Card or Debit Card
 
-There is still no easy way to buy Ether directly with a credit card. The best way is to use an exchange like [Circle](https://www.circle.com/en) (US) or [CoinCorner](https://www.coincorner.com/) (UK & Europe) to buy bitcoins which you can trade for ether. 
+There is still no easy way to buy Ether directly with a credit card. The best way is to use an exchange like [Circle](https://www.circle.com/en) (US) or [CoinCorner](https://www.coincorner.com/) (UK & Europe) to buy bitcoins which you can trade for ether.
+
+One of the options to buy Ethereum with credit card is [Atomic Wallet](https://atomicwallet.io/buy-ethereum) (US and Europe). The in-app buy option is powered by Simplex that allows to buy Bitcoin, Ethereum, Litecoin, XRP (Ripple) and Bitcoin Cash with a credit card in a few clicks. The whole process takes several minutes, daily limit is up to $20,000.

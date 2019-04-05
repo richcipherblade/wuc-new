@@ -87,6 +87,13 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 
 <p><a href="http://geni.us/ledger">Ledger Nano S</a> is considered to be one of the best wallets currently in terms of storing your coins. It is a hardware wallet that is also capable of storing multiple cryptocurrencies such as Litecoin, Bitcoin, Ethereum, Dash and more. Its way cheaper than TREZOR but the functionalities that you can get is almost the same including its security.</p>
 
+<h4>Atomic Wallet - Litecoin Wallet</h4>
+
+<center><img src="/images/atomic-litecoin.jpg" alt="what is litecoin"/></center>
+
+<p><a href="https://atomicwallet.io/litecoin">Atomic Wallet</a> is a fully decentralized, non-custodial multicurrency wallet, supporting Litecoin and 300+ coins and tokens. Atomic provides an interface that allows you to not only manage, but also exchange and buy cryptocurrencies without using external services. The wallet has a built-in decentralized orderbook enabling users to exchange BTC, LTC and QTUM using the Atomic Swap technology. Atomic Wallet provides users with a 12-word mnemonic seed, so they get full access to their funds. All private keys are encrypted on an end device. 
+</p>	
+
 <h4>Exodus’s Litecoin Wallet</h4>
 
 <center><img src="/images/exodus-litecoin.jpg" alt="what is litecoin"/></center>
@@ -99,7 +106,7 @@ summary: Litecoin is a peer-to-peer Internet currency that enables instant, near
 
 <p>This is a cross platform Bitcoin and altcoin wallet. Jaxx works on Desktop and mobile and is very intuitive and easy to use.</p>
 
-<h4<Liteaddress.org’s Litecoin Wallet</h4>
+<h4>Liteaddress.org’s Litecoin Wallet</h4>
 
 <p>Liteaddress.org is a straightforward administration that will create a Litecoin key and address for you. You would then be able to print the key and address and securely store Litecoins disconnected. Due the majority of the robberies that have happened with Bitcoins and online wallets, many individuals now like to store coins disconnected. This administration is certainly justified regardless of a look in the event that you are searching for an approach to effectively store Bitcoins disconnected. Read this post to see how to make a 99.9% safe paper wallet.</p>
 

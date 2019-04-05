@@ -75,6 +75,8 @@
    category: mobileandroid
    download: https://play.google.com/store/apps/details?id=io.atomicwallet
    img: atomic-logo
+   more_info: /atomic-wallet/
+   tags: start, mobile
 
  - wallet: breadwallet (Android)
    description: <a href="/breadwallet/">Breadwallet</a> started out as the most popular wallet for iPhone, and now it is also available for Adroid devices running Android 6.0 or higher. The simplicity and easy-to-use security makes it a great place to start for users who are new to bitcoin.
