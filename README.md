@@ -1,38 +1,36 @@
 # Contribute Articles to We Use Coins (WUC)
 
-<p><a href="https://www.weusecoins.com/">WeUseCoins</a> is one of the highest profile and visited websites in Bitcoin. Our <a href="https://www.youtube.com/watch?v=Um63OQz3bjo">video</a> <a href="https://www.youtube.com/watch?v=Gc2en3nHxA4">What Is Bitcoin?</a> has had over 7.5 million views and <a href="https://www.youtube.com/watch?v=GmOzih6I1zs">What Is Bitcoin Mining?</a> has had over 2 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency.
+<p><a href="https://www.weusecoins.com/">WeUseCoins</a> is one of the highest profile and visited websites in Bitcoin. Our <a href="https://www.youtube.com/watch?v=Um63OQz3bjo">video</a> <a href="https://www.youtube.com/watch?v=Gc2en3nHxA4">What Is Bitcoin?</a> has had over 7.5 million views and <a href="https://www.youtube.com/watch?v=GmOzih6I1zs">What Is Bitcoin Mining?</a> has had over 2 million views. We want WUC to be a classy resource to introduce people to the concept of crypto-currency.</p>
 <h3>Build Your Bitcoin Business</h3>
-<p>You can responsibly leverage WUC to build your <a href="http://bitcoinminer.com/">Bitcoin</a> business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+<p>You can responsibly leverage WUC to build your <a href="http://bitcoinminer.com/">Bitcoin</a> business! For example, you could use WUC for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.</p>
 <img src="/images/optimized.png" align="center" alt="optimized"/>
-<p>
-WUC uses Github to manage version control with a fork and pull method. Watch this [video by Clay Shirky](https://www.youtube.com/watch?v=CEN4XNth61o) to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently,  If you are unfamiliar then you may need to learn how to [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and how to [use pull requests](https://help.github.com/articles/using-pull-requests/) plus this [short video may be helpful](https://www.youtube.com/watch?v=YTbRzhQju4c).<p>
-<p>
-Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
+<p>WUC uses Github to manage version control with a fork and pull method. Watch this <a href="https://www.youtube.com/watch?v=CEN4XNth61o">video by Clay Shirky</a> to understand why. <b>This means your articles and contributions should be submitted as a pull request.</b> Consequently, if you are unfamiliar then you may need to learn how to <a href="https://help.github.com/articles/creating-a-pull-request/">create a pull request</a> and how to <a href="https://help.github.com/articles/using-pull-requests/">use pull requests</a> plus this <a href="https://www.youtube.com/watch?v=YTbRzhQju4c">short video</a> may be helpful.</p>
+<p>Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.</p>
 
 To increase the probability of success please follow these guidelines:
 
 ### Author Biography Article<p>
-1. Create an author biography article.<p>
-2. Appropriate examples: <b>Individual</b>: [Live](http://www.weusecoins.com/trace-mayer-bitcoin-expert); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_people/trace-mayer-bitcoin-expert.md); <b>Corporate</b>: [Live](http://www.weusecoins.com/armory/); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_companies/armory.md)<p>
-3. For the Author URL in the layout use a website of your choice<p>
+1. Create an author biography article.
+2. Appropriate examples: <b>Individual</b>: [Live](http://www.weusecoins.com/trace-mayer-bitcoin-expert); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_people/trace-mayer-bitcoin-expert.md); <b>Corporate</b>: [Live](http://www.weusecoins.com/armory/); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_companies/armory.md)
+3. For the Author URL in the layout use a website of your choice
 
 ### Writing Articles For WUC<p>
-1. Create an objective article in the _posts folder<p>
-2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
-3. Fill out the Author and Author URL (use your WUC Author Biography article).<p>
+1. Create an objective article in the _posts folder
+2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md
+3. Fill out the Author and Author URL (use your WUC Author Biography article).
 4. Length should be 500-1,200 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word <a href="https://www.bitcoinmining.com/best-bitcoin-cloud-mining-contract-reviews/">guide</a> if it is awesome.
 5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
-6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).<p>
-7. Link to and from other relevant pages on weusecoins.com like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
-8. Optimize images (Ex. [Kraken.io](http://www.kraken.io))<p>
-9. Find websites that will link to the article<p>
-10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
-11. Thanks for your help!<p>
+6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).
+7. Link to and from other relevant pages on weusecoins.com like the extensive [FAQ](https://www.weusecoins.org/en/questions/)
+8. Optimize images (Ex. [Kraken.io](http://www.kraken.io))
+9. Find websites that will link to the article
+10. Mention the article on social media like Twitter, Facebook, Reddit, etc.
+11. Thanks for your help!
 
 ### What Not To Do
 
-WUC is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.<p>
-For obvious reasons, when dealing with translations you should not change the meaning of any text or add or change links. Such changes should be discussed first.
+<p>WUC is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.</p>
+<p>For obvious reasons, when dealing with translations you should not change the meaning of any text or add or change links. Such changes should be discussed first.</p>
 
 # Other Language Versions
 
@@ -47,16 +45,16 @@ There are legacy versions of German [de], Dutch [nl], French [fr] and Japanese [
 
 If you would like to work on a language where the folder structure has not been setup then create an issue for inclusion or submit the appropriate pull request.
 
-<b>Example:</b> You want to translate to Spanish.<p>
+<p><b>Example:</b> You want to translate to Spanish.
 <ul>
-<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary [only needed for fi, no and tl], (4) questions [FAQ] [only needed for fi, no and tl], (5) price, (6) <a href="">mining guide</a>, (7) merchant and (8) get free bitcoins.</li></ul><p>
+<li><b>(1)</b> In _includes/default-es.html change lines 31-37 at /es/page by translating the anchor text [Note: This will make sure the internal link structure is correct.].</li><li><b>(2)</b> Begin translating pages and we recommend in this order (1) homepage [index], (2) getting started, (3) glossary [only needed for fi, no and tl], (4) questions [FAQ] [only needed for fi, no and tl], (5) price, (6) <a href="">mining guide</a>, (7) merchant and (8) get free bitcoins.</li></ul></p>
 
 This order should help get useful content available most efficiently.
 
 <h2>Suggestions and recommendations</h2>
 
-Translations should be accurate and professional. However, the maintainer for the language will have editorial discretion for what content should appear. This will enable adaptation to best fit each language's requirements, available resources, local businesses or active groups and general market conditions.<p>
-Unfortunately, pages can easily get out of date if not maintained. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.
+<p>Translations should be accurate and professional. However, the maintainer for the language will have editorial discretion for what content should appear. This will enable adaptation to best fit each language's requirements, available resources, local businesses or active groups and general market conditions.</p>
+<p>Unfortunately, pages can easily get out of date if not maintained. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.</p>
 
 The materials directory is used as a shared directory to store files that take significant disk space like videos.
 
