@@ -258,6 +258,8 @@ summary: Ripple is an internet protocol developed by Ripple Labs to connect all 
 
 <h4>Other Options To Create Ripple Wallet</h4>
 <ul>
+<li><a href="http://atomicwallet.io/ripple/">Atomic Wallet</a> -  is a fully decentralized, non-custodial multicurrency wallet, supporting Ripple and 300+ coins and tokens. Atomic provides an interface that allows you to not only manage, but also exchange and buy cryptocurrencies without using external services.</li>
+
 <li><a href="http://www.gatehub.net/">GateHub Wallet</a> -  the simplest way to create a Ripple wallet</li>
 
 <li><a href="http://www.rippex.net/">Rippex</a> - which is a downloadable desktop cinet</li>
@@ -305,6 +307,26 @@ summary: Ripple is an internet protocol developed by Ripple Labs to connect all 
 </ul>
 
 <h2 id="buy">How To Buy Ripple?</h2>
+
+<h4>Atomic Wallet</h4>
+
+<p>Atomic Wallet is a popular multicurrency wallet supporting over 300 coins and tokens. The wallet allows you to buy Bitcoin, Ethereum, XRP (Ripple), Litecoin and Bitcoin Cash right in one interface. It’s remarkable that the wallet provides all-in-one solution for every cryptocurrency holder. Atomic Wallet is non-custodial which means that all users’ private keys are encrypted on their devices and can be used anytime. The keys are well-protected with a 12-word seed phrase. Atomic Wallet has built-in services allowing you to exchange and buy Bitcoin and other cryptos with a credit card in one interface. The wallet also features the option to use Atomic Swaps, the on-chain technology, for swapping for Bitcoin, Litecoin and QTUM. 
+</p>
+
+<strong>How to BUY RIPPLE?</strong>
+<p><b>1.</b> Install <a href="https://atomicwallet.io/buy-ripple">Atomic Wallet</a></p>
+
+<p>Credit and Debit card accepted with estimated fees = 2%.</p>
+
+<center><iframe width="700" height="394" src="https://youtu.be/aY7LoIDA82o" frameborder="0" allowfullscreen></iframe></center>
+
+<p><b>2.</b> Get Verified</p>
+
+<p>To Purchase XRP you need to pass the verification process to prevent fraud and to prove that it's really you.</p>
+
+<p><b>3. </b> Buy XRP</p>
+
+<p>XRP will be sent to your account within 24 hours. In the most cases it takse less than an hour.</p>
 
 <h4>Bitstamp</h4>
 

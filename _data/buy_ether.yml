@@ -1,3 +1,9 @@
+ - exchange: Atomic Wallet
+   description: "Atomic Wallet is a popular multicurrency wallet supporting over 300 coins and tokens. The wallet allows you to buy Bitcoin, Ethereum, XRP (Ripple), Litecoin and Bitcoin Cash right in one interface. It’s remarkable that the wallet provides all-in-one solution for every cryptocurrency holder. Atomic Wallet is non-custodial which means that all users’ private keys are encrypted on their devices and can be used anytime. Atomic Wallet has built-in services allowing you to exchange and buy Bitcoin and other cryptos with a credit card in one interface. The wallet also features the option to use Atomic Swaps, the on-chain technology, for swapping for Bitcoin"
+   logo: atomic-logo.png
+   url: https://atomicwallet.io/buy-ethereum
+   tags: fiat
+
  - exchange: Kraken
    description: "Kraken is a Bitcoin and cryptocurrency exchange based in Europe. Kraken offers six ether trading pairs: ETH/XBT, ETH/USD, ETH/EUR, ETH/CAD, ETH/JPY, and ETH/GBP. Because Kraken offers a wide range of payment methods–SEPA transfer, USD bank wire, GBP SEPA, Interac Online–it is the easiest way for most people to buy ether directly."
    logo: kraken.png
