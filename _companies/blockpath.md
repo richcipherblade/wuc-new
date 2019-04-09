@@ -3,7 +3,7 @@ title: Blockpath
 cats: featured
 img: /images/blockpath.png
 ---
-Blockpath is a professional accounting platform with several unique features and integrations to simplify working with blockchain data.
+<a href="https://blockpath.com">Blockpath</a> is a professional accounting platform with several unique features and integrations to simplify working with blockchain data.
 
 The most popular features are the interactive graphical block explorer, privacy tax prep, and the first QuickBooks App integration to sync Bitcoin transactions and capital gains into QuickBooks Online.
 
@@ -42,5 +42,10 @@ Blockpath has a long list of other useful tools, including:
 </ul>
 
 
-<p style="margin-bottom: 20px;"><a class="social-link" href="https://twitter.com/Blockpathdotcom" class="twitter-follow-button" data-show-count="false" data-size="large">Follow us on Twitter: @Blockpathdotcom</a></p>
+<p style="margin-bottom: 20px;">
+    <a class="social-link" href="https://twitter.com/Blockpathdotcom" class="twitter-follow-button" data-show-count="false" data-size="large">Follow us on Twitter: @Blockpathdotcom</a>
+    <br>
+    <a class="social-link" href="https://www.facebook.com/Blockpath" class="facebook-follow-button" data-show-count="false" data-size="large">Facebook</a>
+
+</p>
 
