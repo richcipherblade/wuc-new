@@ -41,6 +41,8 @@ Blockpath has a long list of other useful tools, including:
     <li> ... and many more! </li>
 </ul>
 
+### Founder
+Blockpath was founded by [Matthew Ewald](/matthew-ewald/) in 2015.
 
 <p style="margin-bottom: 20px;">
     <a class="social-link" href="https://twitter.com/Blockpathdotcom" class="twitter-follow-button" data-show-count="false" data-size="large">Follow us on Twitter: @Blockpathdotcom</a>
