@@ -51,7 +51,7 @@
    description: Wall of Coins is an escrow service that facilitates the buying and selling of bitcoins. Cash deposit is the most popular payment method.
    countries: us
    logo: wallofcoins.png
-   url: https://wallofcoins.com/
+   url: http://geni.us/localbitcoins
 
  - exchange: Remitano
    description: Remitano is an escrow service that allow you to buy Bitcoin safely using Bank transfer and cash deposit.
