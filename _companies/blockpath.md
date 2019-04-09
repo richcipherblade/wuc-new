@@ -3,9 +3,9 @@ title: Blockpath
 cats: featured
 img: /images/blockpath.png
 ---
-Blockpath is an accounting tool, wallet tracker, and a block explorer with several unique features and integrations to simplify working with blockchain data.
+Blockpath is a professional accounting platform with several unique features and integrations to simplify working with blockchain data.
 
-The most popular features are the interactive graphical block explorer, and the first QuickBooks App integration to sync Bitcoin transactions and capital gains into QuickBooks Online.
+The most popular features are the interactive graphical block explorer, privacy tax prep, and the first QuickBooks App integration to sync Bitcoin transactions and capital gains into QuickBooks Online.
 
 Blockpath fully supports bech32 address formats and xPub/yPub/zPub extended public key formats. 
 
@@ -24,6 +24,10 @@ The watch-only wallet can be saved locally on the user's device, or on Blockpath
 Blockpath can connect a QuickBooks Online account and automatically sync your Bitcoin transactions and capital gains reports into QuickBooks. Assign each of your addresses to a QuickBooks account to organize transactions, and view the cumulative balance and value in your home currency with current exchange rates synced with QuickBooks each day.
 
 Blockpath also includes a reconciliation tool that compares QuickBooks data against actual Blockchain data to ensure your accounts are accurate. Any missing transactions can be automatically repaired with the tool.
+
+### Tax Prep
+
+This tool handles all crypto currencies, over 120 exchanges, and unlimited trades, with a focus on privacy: all the tax calculations and data sourcing occurs directly in your browser! None of your trade history, API exchange keys, or tax reports ever touch Blockpath's servers. 
 
 ### Other Tools
 
