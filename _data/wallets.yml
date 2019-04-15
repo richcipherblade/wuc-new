@@ -70,7 +70,7 @@
    
 ## Mobile - Android
 
-- wallet: Atomic Wallet (Android)
+ - wallet: Atomic Wallet (Android)
    description: Atomic Wallet is available on Google Play and fully optimized for Android devices. The app provides the option to seamlessly manage and exchange 300+ coins and tokens. Private keys are encrypted on users’ device and never leave it. 
    category: mobileandroid
    download: https://play.google.com/store/apps/details?id=io.atomicwallet
