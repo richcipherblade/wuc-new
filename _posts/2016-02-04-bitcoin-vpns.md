@@ -8,7 +8,7 @@ published: true
 permalink: /bitcoin-vpns/
 filter: /ajax/vpns.json
 ---  
-Bitcoin is one of the few payment methods that allows customers to pays for VPNs anonymously. This post lists the best VPNs that you can buy with Bitcoin. To add a VPN please [submit a pull request](https://github.com/sunnankar/wuc-new/blob/gh-pages/_data/bitcoinvpns.yml).
+Bitcoin is one of the few payment methods that allows customers to pays for VPNs anonymously. This post lists the <a href="https://vpnpro.com/best-vpn-services/">best VPNs</a> that you can buy with Bitcoin. To add a VPN please [submit a pull request](https://github.com/sunnankar/wuc-new/blob/gh-pages/_data/bitcoinvpns.yml).
 
 <i><b>Note:</b> All VPNs claim secure connections and no logging of customer data. It's up to you to determine which VPN is trustworthy. </i>
 
