@@ -6,7 +6,7 @@ img: /images/company/bitwage.png
 
 <a href="https://www.bitwage.com">Bitwage</a> offers programmatic Access to its resources including Tickers, User, Worker, and Employer.
 
-We create solutions for remote workers looking for work and to optimally receive their wages. We offer unique jobs, flexible distributions, reduced payroll costs and increased fulfillment speeds.
+Bitwage allows anyone around the world to receive any percentage of their wage in Bitcoin. International workers can also leverage bitcoin for faster and cheaper payrolls into their bank accounts.
 
 ## Venture Capital Rounds
 
