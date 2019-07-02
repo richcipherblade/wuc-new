@@ -13,6 +13,7 @@ published: true
 <p><a href="http://p2pfoundation.ning.com/profile/SatoshiNakamoto">Ning/P2P Foundation</a> requires a birthdate for signups, and displays for every member an age calculated from that birthdate. This is the basis for ages given for Satoshi.
 <p>However, the age changes each year. For example, based on archives collected by Archive.org the profile for Satoshi Nakamoto:
 <p><a href="http://web.archive.org/web/20110317060514/http://p2pfoundation.ning.com/profile/SatoshiNakamoto">age: 35 in 17 March 2011</a>
+<p><center><img src='https://www.weusecoins.com/images/satoshi-nakamoto-35.png' title=‘Satoshi Nakamoto Birthday' alt='Satoshi Nakamoto Birthday' width="600" height="368" border='0'></center>
 <p>Watching these increments, on 4 April 2014 the profile displayed 38 and 5 April 2014 it displayed 39.
 <p>Consequently, 5 April 1975 because 2014-39=1975.
 <p><h2>Why 5 April 1975?</h2>
