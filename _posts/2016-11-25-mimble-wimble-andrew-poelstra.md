@@ -1,15 +1,21 @@
 ---
 layout: post
 title: Mimble Wimble Explained
-description : A mimblewimble transaction like bitcoin is a list of inputs and a list of outputs. 
+description : A mimblewimble transaction like bitcoin is a list of inputs and a list of outputs.
 author: Andrew Poelstra
 authorurl: /andrew-poelstra/
 published: true
 ---
 
-<center><iframe width="700" height="394" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allowfullscreen></iframe></center>
+<p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allowfullscreen></iframe></center>
 
-<h1>History</h1>
+<p>MWC, <a href="/what-is-mwc/">Mimble Wimble Coin</a>, was created in February 2019 using the research from the Mimble Wimble Whitepaper released in 2016.
+<p>Mimble Wimble is a superior blockchain technology and provides an excellent framework that has superior scalability, privacy and fungibility.
+<p>In contrast, in Section 10 of the <a href="/bitcoin.pdf">Bitcoin whitepaper</a>, Satoshi Nakamoto acknowledged the lack of privacy in Bitcoin and as a remedy suggested a solution "by keeping public keys anonymous.".
+<p>It is possible, although extremely unlikely, to implement Mimble Wimble in Bitcoin with a hard fork. To reach its full potential, Mimble Wimble is best deployed in the base layer of a protocol.
+<p>Thus, MWC, or Mimble Wimble Coin, applies Mimble Wimble in the base layer and is a scarce, secure, scalable, private, fungible and untraceable digital currency released via open-source software and freely available to all.
+
+<p><h1>History</h1>
 
 <p>As Denise said, I gave <a href="http://diyhpl.us/wiki/transcripts/scalingbitcoin/milan/mimblewimble/">a talk in Milan about mimblewimble about a month ago</a> (<a href="http://diyhpl.us/~bryan/papers2/bitcoin/mimblewimble-2016-scaling-bitcoin-slides.pdf">slides</a>). This is more or less the same talk, but rebalanced a bit to try to emphasize what I think is important and add some history that has happened in the intervening time. I'll get started.</p>
 
