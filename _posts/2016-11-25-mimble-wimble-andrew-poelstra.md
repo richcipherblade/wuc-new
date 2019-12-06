@@ -11,9 +11,9 @@ published: true
 
 <p>MWC, <a href="/what-is-mwc/">Mimble Wimble Coin</a>, was created in February 2019 using the research from the Mimble Wimble Whitepaper released in 2016.
 <p>Mimble Wimble is a superior blockchain technology and provides an excellent framework that has superior scalability, privacy and fungibility.
-<p>In contrast, in Section 10 of the <a href="/bitcoin.pdf">Bitcoin whitepaper</a>, Satoshi Nakamoto acknowledged the lack of privacy in Bitcoin and as a remedy suggested a solution "by keeping public keys anonymous.".
+<p>In contrast, in Section 10 of the <a href="https://www.bitcoin.org/bitcoin.pdf">Bitcoin whitepaper</a>, Satoshi Nakamoto acknowledged the lack of privacy in Bitcoin and as a remedy suggested a solution "by keeping public keys anonymous.".
 <p>It is possible, although extremely unlikely, to implement Mimble Wimble in Bitcoin with a hard fork. To reach its full potential, Mimble Wimble is best deployed in the base layer of a protocol.
-<p>Thus, MWC, or Mimble Wimble Coin, applies Mimble Wimble in the base layer and is a scarce, secure, scalable, private, fungible and untraceable digital currency released via open-source software and freely available to all.
+<p>Thus, <a href="/what-is-mwc/">MWC</a> applies Mimble Wimble in the base layer and is a scarce, secure, scalable, private, fungible and untraceable digital currency released via open-source software and freely available to all.
 
 <p><h1>History</h1>
 
