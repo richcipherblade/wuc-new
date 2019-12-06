@@ -21,11 +21,6 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 ---
 
 <p><h2 id="what">What Is MWC?</h2>
-
-<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="monero" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
-
-<p><center><img src="/images/mwc-white.png" alt="what is mwc"></center>
-
 <p>MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and untraceable digital currency that implements Mimble Wimble via open-source software and freely available to all.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -89,6 +84,7 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 <p>Desert garden received the money soon thereafter, and the supports of these two dull web markets incited huge media scope. </p>
 
 <p><h4>Monero's Market </h4>
+<p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="monero" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
 <p>Monero's market works like that of numerous different digital forms of money. Those keen on putting resources into the cryptographic money can buy it altogether through trades including Poloniex, Bitfinex and Kraken. </p>
 
