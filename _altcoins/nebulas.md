@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-nebulas/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Nebulas?
   getting: Getting Started With Nebulas
   howto: How To Get A Nebulas Wallet?
-  resources: Nebulas Resources 
+  resources: Nebulas Resources
   buy: How To Buy Nebulas?
   latest: Latest Nebulas News
 img: nebulas.png
@@ -76,7 +76,7 @@ summary: Nebulas is a next generation public blockchain, aiming for a continuous
 
 <p>The three counselors (Edith Yeung, Chris McCann, and Evan Cheng) to the venture are likewise persuasive individuals from the business/blockchain groups. Yeung is a devoted tech financial specialist, an accomplice at 500 Startups, and has been highlighted in Inc's Magazine article "The Silicon Valley Investors You Need to Know in 2016". </p>
 
-<p>McCann built up the group program at Greylock Partners (financial specialists in <a href="http://geni.us/coinbase">Coinbase</a>, FB, Airbnb, Linkedin, and so forth). Also, McCann was an early guide for the Thiel Fellowship at Stanford University and was a prime supporter of StartupDigest. </p>
+<p>McCann built up the group program at Greylock Partners (financial specialists in <a href="http://geni.us/coinbase">Coinbase</a>, FB, Airbnb, Linkedin, and so forth). Also, McCann was an early guide for the Thiel Fellowship at Stanford University and was a prime supporter of Startup Digest. </p>
 
 <p>To wrap things up, Cheng is a building chief at Facebook with an earlier 10-year advancement profession at Apple. He's got the ACM Software System Award for his commitments to software engineering.</p>
 
@@ -240,5 +240,3 @@ summary: Nebulas is a next generation public blockchain, aiming for a continuous
 <p>The total reward of this program amounts to 460,000 NAS (according to the price on May 1, it’s more than $4.5 million).</p>
 
 <p>The Nebulas Incentive Program has attracted a lot of attention since its announcement. There have been huge increases across the board in the number of transactions on the Nebulas testnet, developer activity of in our community, as well as media coverage. This positive feedback from the market illustrates the blockchain community’s recognition for and interest in the Nebulas Incentive Program.</p>
-
-

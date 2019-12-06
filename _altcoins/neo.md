@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-neo/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Neo?
   getting: Getting Started With Neo
   howto: How To Get A Neo Wallet?
-  resources: Neo Resources 
+  resources: Neo Resources
   buy: How To Buy Neo?
   latest: Latest Neo News
 img: neo.png
@@ -40,7 +40,7 @@ summary: NEO is the use of blockchain technology and digital identity to digitiz
 
 <p>The smart contract was first proposed by the cryptographer Nick Szabo in 1994, only five years after the creation of the World Wide Web. According to Szabo's definition: When a pre-programmed condition is triggered, the smart contract will execute the corresponding contract terms. Blockchain technology provides us with a decentralized, tamper-resistant, highly reliable system in which smart contracts are very useful. NEO has an independent smart contract system: NeoContract.</p>
 
-<p>The NeoContract smart contract system is the biggest feature of the seamless integration of the existing developer ecosystem. Developers do not need to learn a new programming language but use C#, Java and other mainstream programming languages in their familiar IDE environments (Visual Studio, Eclipse, etc.) for smart contract development, debugging and compilation. </p>
+<p>The Neo-Contract smart contract system is the biggest feature of the seamless integration of the existing developer ecosystem. Developers do not need to learn a new programming language but use C#, Java and other mainstream programming languages in their familiar IDE environments (Visual Studio, Eclipse, etc.) for smart contract development, debugging and compilation. </p>
 
 {% include page-toc.html %}
 
@@ -475,4 +475,3 @@ summary: NEO is the use of blockchain technology and digital identity to digitiz
 {% include page-toc.html %}
 
 <p>Above information had been publicly discussed/addressed in speaking or written form in numerous situations on social media, industry conferences, and community meetups, across different continents. We are sorry to see that FUD is spreading among those who are not aware of or agree with NEO's vision and philosophy. We hope these facts will help people to understand NEO Council's standpoint on relative issues.</p>
-

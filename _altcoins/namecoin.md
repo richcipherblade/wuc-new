@@ -7,7 +7,7 @@ published: true
 permalink: /what-is-namecoin/
 img: namecoin.png
 category: altcoin
-summary:  Namecoin is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency. 
+summary:  Namecoin is a decentralized open source information registration and transfer system based on the Bitcoin cryptocurrency.
 ---
 
 <img src="/images/namecoin.png" alt="what is namecoin" align="right">
@@ -20,7 +20,7 @@ Namecoin is a decentralized open source information registration and transfer sy
 <ul><li>Securely record and transfer arbitrary names (keys).</li>
 <li>Attach a value (data) to the names</li>
 <li>(up to 520 bytes, more in the future).</li>
-<li>Transact namecoins, the digital currency (ℕ, NMC).</li></ul>
+<li>Transact Namecoins, the digital currency (ℕ, NMC).</li></ul>
 <p>
 Namecoin was the first fork of Bitcoin and still is one of the most <a href="/en/alt-coins/">innovative altcoins</a>. It was first to implement merged mining and a decentralized DNS. Namecoin squares Zooko's Triangle!
 <p>

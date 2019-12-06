@@ -6,16 +6,16 @@ author: WeUseCoins
 permalink: /what-is-ardor/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Ardor?
   getting: Getting Started With Ardor
   howto: How To Get A Ardor Wallet?
-  resources: Ardor Resources 
+  resources: Ardor Resources
   buy: How To Buy Ardor?
   latest: Latest Ardor News
 img: ardor.png
 category: appcoin
-summary: Ardor is a public blockchain platform that will allow people to utilize the blockchain technology of Nxt through the use of child chains.
+summary: Ardor is a public blockchain platform that will allow people to utilize the blockchain technology of NXT through the use of child chains.
 ---
 
 <h2 id="what">What Is Ardor?</h2>
@@ -26,7 +26,7 @@ summary: Ardor is a public blockchain platform that will allow people to utilize
 
 <p>Ardor is a <a href="/blockchain-explained-for-normal-people/">public blockchain platform</a> that will allow people to utilize the blockchain technology of Nxt through the use of child chains. A child chain, which is a ‘light’ blockchain that can be customized to a certain extent, is designed to allow easy self-deploy for your own blockchain. </p>
 
-<p>Nxt claims that users will "not need to worry" about security, as that part is now handled by the main chain (Ardor). This is the <a href="/how-to-mine-bitcoins/">chief innovation of Ardor</a>. The first child chain on the Ardor platform will be Ignis for which an ongoing crowdsale has been launched.</p>
+<p>NXT claims that users will "not need to worry" about security, as that part is now handled by the main chain (Ardor). This is the <a href="/how-to-mine-bitcoins/">chief innovation of Ardor</a>. The first child chain on the Ardor platform will be Ignis for which an ongoing crowdsale has been launched.</p>
 
 <p>These are some of the key features of Ardor which are note worthy:</p>
 {% include page-toc.html %}

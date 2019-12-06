@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-ark/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is ARK?
   getting: Getting Started With ARK
   howto: How To Get A ARK Wallet?
-  resources: ARK Resources 
+  resources: ARK Resources
   buy: How To Buy ARK?
   earn: How To Earn ARK?
   mining: What Is ARK Mining?
@@ -70,7 +70,7 @@ summary: ARK provides users, developers, and startups with innovative blockchain
 
 <p>The voting arrangement of ARK is more decentralized than different DPoS agreement models. Voting weight is spread over all votes as opposed to relegating all weight to one vote. Henceforth the whole system can't be assumed control. </p>
 
-<h4>Downsides Of The Product</h4>
+<h4>Downsides Of the Product</h4>
 
 <p>1. Despite the security features that are incorporated into the system, the money will never be entirely secure. This is due to hacking and hence your funds will never be 100% secure. There is still a risk that you might lose your funds.</p>
 
@@ -94,7 +94,7 @@ summary: ARK provides users, developers, and startups with innovative blockchain
 
 <h4>What does that mean?</h4>
 
-<p>In order for ARK to become the medium/intermediary between chains, each chain needs a small snippet of code implemented. It is very easy to insert and not harmful to any blockchain, current or otherwise.</p> 
+<p>In order for ARK to become the medium/intermediary between chains, each chain needs a small snippet of code implemented. It is very easy to insert and not harmful to any blockchain, current or otherwise.</p>
 
 <p>Once this tiny code is inserted into the core code of any blockchain, that’s it. Now that blockchain is connected to ARK. We make it painless and extremely simple to implement, and will provide very easy to follow instructions with 24/7 support via slack chat.</p>
 
@@ -199,7 +199,7 @@ summary: ARK provides users, developers, and startups with innovative blockchain
 <h4>Quit the Ledger Manager</h4>
 
 <p>These 2 first steps are only required once. Now everything is ready to manage your Arkaccount.</p>
- 
+
 <h4>3. Once these apps are installed, open your Ark wallet:</h4>
 <ul>
 <li>Launch the Ark Client software on your computer</li>

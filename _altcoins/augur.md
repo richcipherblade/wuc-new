@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-augur/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Augur?
   getting: Getting Started With Augur
   howto: How To Get A Augur Wallet?
-  resources: Augur Resources 
+  resources: Augur Resources
   buy: How To Buy Augur?
   mining: What Is Augur Mining?
   latest: Latest Augur News
@@ -39,7 +39,7 @@ summary: Augur is a decentralised prediction market to exchange value when forec
 
 <h4>Reputation</h4>
 
-<p>The backbone of Augur is tradable tokens called Reputation (REP). The total amount of Reputation is fixed at 11 million coins when it was launched in August 2015. The tokens give the right for individuals to report or weigh in on the outcome of events. It can be earned by people who provide truthful reports. </p>
+<p>The backbone of Augur is tradable tokens called Reputation (REP). The total amount of Reputation is fixed at 11 million coins when it was launched in August 2015. The tokens give the right for individuals to report or weigh in on the outcome of events. It can be earned by people who provide truthful reports.</p>
 
 <p>Additionally, people who submit correct predictions are also awarded a portion of the winnings whereas people who report against the consensus (untruthfully) will lose their <a href="/video-hype-bitcoin-bubble/">REP tokens</a> and earn nothing. Furthermore, the more REP a user has, the more value or trust is assigned to that person's input.</p>
 
@@ -343,5 +343,3 @@ Kraken Trading Augur Reputation Tokens (REP)
 <p>The new client is about 50% complete. Our speed of development has improved since the migration. The engineering team has been growing rapidly, and we’re finding employees easier to onboard at this time in the project.</p>
 
 <p>We have a rough timeline scoped out internally for everything necessary to bring us to launch. Over the coming weeks, we will share some of these broken down timelines with you, as well as updating you with our weekly development updates.</p>
-
-

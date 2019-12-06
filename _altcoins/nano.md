@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-nano/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Nano?
   getting: Getting Started With Nano
   howto: How To Get A Nano Wallet?
-  resources: Nano Resources 
+  resources: Nano Resources
   buy: How To Buy Nano?
   mining: What Is Nano Mining?
   latest: Latest Nano News
@@ -55,7 +55,7 @@ summary: Nano is a low-latency payment platform that requires minimal resources;
 
 <p>Recently, high demand and limited scalability have increased the average transaction times and fees in popular cryptocurrencies, yielding an unsatisfactory experience. Here we introduce Nano, a cryptocurrency with a novel block-lattice architecture where each account has its own blockchain, delivering near instantaneous transaction speed and unlimited scalability. </p>
 
-<p>Each user has their own blockchain, allowing them to update it asynchronously to the rest of the network, resulting in fast transactions with minimal overhead. Transactions keep track of account balances rather than transaction amounts, allowing aggressive database pruning without compromising security. </p>
+<p>Each user has their own blockchain, allowing them to update it asynchronously to the rest of the network, resulting in fast transactions with minimal overhead. Transactions keep track of account balances rather than transaction amounts, allowing aggressive database pruning without compromising security.</p>
 
 <p>To date, the Nano network has processed 4.2 million transactions with an unpruned ledger size of only 1.7GB. Nano’s feeless, split-second transactions make it the premier cryptocurrency for consumer transactions.</p>
 
@@ -69,7 +69,7 @@ summary: Nano is a low-latency payment platform that requires minimal resources;
 
 <p><b>1) Poor scalability:</b> Each block in the blockchain can store a limited amount of data, which means the system can only process so many transactions per second, making spots in a block a commodity. Currently the median transaction fee is $10.38. </p>
 
-<p><b>2) High latency:</b> The average confirmation time is 164 minutes.</p> 
+<p><b>2) High latency:</b> The average confirmation time is 164 minutes.</p>
 
 <p><b>3) Power inefficient:</b> The Bitcoin network consumes an estimated 27.28TWh per year, using on average 260KWh per transaction.</p>
 

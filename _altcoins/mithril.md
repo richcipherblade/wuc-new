@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-mithril/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Mithril?
   getting: Getting Started With Mithril
   howto: How To Get A Mithril Wallet?
-  resources: Mithril Resources 
+  resources: Mithril Resources
   buy: How To Buy Mithril?
   latest: Latest Mithril News
 img: mithril.png
@@ -24,7 +24,7 @@ summary: Mithril is a decentralized social media platform on the Ethereum Blockc
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/5bzCBDALuFs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-<p>Mithril is a <a href="/long-live-decentralized-bitcoin/">decentralized social media platform</a> on the Ethereum Blockchain. Mithril will integrate into new and existing social media networks to reward content creators for contributions to the network - we call this Social Mining.</p>
+<p>Mithril is a <a href="/long-live-decentralized-bitcoin/">decentralized social media platform</a> on the Ethereum Blockchain. Mithril will integrate into new and existing social media networks to reward content creators for contributions to the network - we call this Social Mining. Mithril will not be mined by Dwarves.</p>
 
 <p>Mithril (MITH) will leverage <a href="/blockchain-explained-for-normal-people/">blockchain technology</a> to ensure that transactions are secure and safe for all participants. This technology revolves around decentralized data storage that can record transactions between parties in a efficient, trustless, and immutable manner.</p>
 
