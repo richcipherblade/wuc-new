@@ -24,7 +24,7 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="monero" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
-<p><center><img src="/images/mwc.png" alt="what is mwc" align="right"></center>
+<p><center><img src="/images/mwc.png" alt="what is mwc"></center>
 
 <p>MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and untraceable digital currency that implements Mimble Wimble via open-source software and freely available to all.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
