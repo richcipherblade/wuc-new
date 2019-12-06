@@ -8,6 +8,7 @@ permalink: /what-is-mwc/
 published: true
 toc:
   what: What Is MWC (Mimble Wimble Coin)?
+  creation: MWC Creation
   start: How To Get Started With MWC
   distribution: Distribution
   innovation: Innovation
@@ -23,12 +24,11 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="monero" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
-<p><img src="/images/mwc.png" alt="what is mwc" align="right">
+<p><center><img src="/images/mwc.png" alt="what is mwc" align="right"></center>
 
 <p>MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and untraceable digital currency that implements Mimble Wimble via open-source software and freely available to all.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<p>MWC was created in February 2019 - and its MainNet launched in November 2019, as a fork of Grin to make a scarce MimbleWimble based coin by adding a 20 million coin supply cap.
-<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/X2Fb9jKgLNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 
   {% include page-toc.html %}
 
@@ -41,6 +41,9 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
   <li>Step 3: Withdraw your MWC to your own wallet. Be sure your wallet is online and listening for the address you used for the withdrawal until the transaction is broadcast, received and confirmed.</li>
   <li>Step 4: Stay Up-to-Date.</li>
   </ul>
+<p><h2 id="creation">MWC Creation</h2>
+  <p>MWC was created in February 2019 - and its MainNet launched in November 2019, as a fork of Grin to make a scarce MimbleWimble based coin by adding a 20 million coin supply cap.
+  <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/X2Fb9jKgLNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p><h2 id="distribution">Distribution</h2>
 <p>Our initial goal is the successful airdrop of Mimblewimble Coin to Bitcoin holders. Only 20 million MWC will ever exist -including 10 million that will take roughly 100 years to be POW mined. Of the remaining 10 million, 6 million will be distributed via the airdrop; 2 million will be held in an escrow wallet to pay out “MWC HODL” dividends;  and 2 million will be dedicated to the development of the coin.
 <p>The airdrop registration process concluded in July, with an incredible 148,474 BTC registered; i.e., roughly 1% of the entire Bitcoin float.  The airdrop claim process commenced December 2nd, and will end January 2nd.  Currently, MWC trades on the HotBit crypto exchange.
@@ -53,7 +56,7 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 <p>This will enable both sending and receiving funds with an <a href="https://github.com/cgilliard/mwc-node/blob/master/doc/offline_wallet.md">offline airgapped MWC wallet</a>. We felt this was a necessity for users to be able to securely store their funds in MWC.
 <p>Using the power of a distributed peer-to-peer consensus network every transaction is cryptographically secured. Individual accounts have a 24 word mnemonic seed displayed when created, and can be written down to backup the account. Account files are encrypted with a passphrase to ensure they are useless if stolen.
 <p><h2 id="private">How Private Is MWC?</h2>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/LjDJGTpK_lE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/LjDJGTpK_lE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p>MWC implements Coin Join and cut-throughs in all of the blocks so there is much less information publicly available in the blockchain like addresses and amounts.
 <p><h2 id="privacy">Other Privacy Options</h2>
 <p>While several <a href="https://www.weusecoins.com/video-future-digital-currency-documentary/">digital forms of currency</a> have been propelled and many have endeavored to give clients more noteworthy protection, they have seen fluctuating levels of achievement. </p>
