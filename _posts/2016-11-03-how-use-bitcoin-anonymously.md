@@ -7,6 +7,7 @@ published: true
 ---
 
 <p>As you probably already know, bitcoin is not anonymous (this property was never part of its original design). Bitcoin transactions are chained together in a permanent public record.
+<p><a href="https://www.mwc.mw">Mimble Wimble Coin</a> is an excellent option if you are seeking a privacy, anonymity and fungibility solution.
 <p>Analysis of the blockchain may reveal a lot information about your transactions <a href="#references">[1]</a> (e.g., recipients of your payments, addresses in your wallet or the balance of your wallet).
 <p>The following sections contains everything you need to know in order to prevent such kind of blockchain analysis.
 </p>
