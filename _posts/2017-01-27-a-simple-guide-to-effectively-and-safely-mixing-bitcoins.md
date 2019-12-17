@@ -16,7 +16,15 @@ published: true
 
 <p>It may seem like a waste of time now, but in the near future it may be simple for anyone- including friends, relatives, employers, and law enforcement, to track every <a href="/adam-back-confidential-transactions/">Bitcoin transaction</a> you’ve ever made and see exactly where it ended up. Breaking the connection between your addresses and the coins’ destination by mixing them is certainly a precaution that all DNM users should take.</p>
 
-<p>In this guide we attempt to provide the simplest possible step-by-step instructions to help users unfamiliar with the process of Bitcoin tumbling do so effectively. This guide assumes the reader already has a basic understand of how to send Bitcoins and how to use .onion sites.</p>
+<p>In this guide we attempt to provide the simplest possible step-by-step instructions to help users unfamiliar with the process of Bitcoin tumbling do so effectively. We will outline two different options.
+
+<p><h2>Using Mimble Wimble Coin</h2>
+<p>One option is to use a privacy coin like <a href="https://www.mwc.mw/">Mimble Wimble Coin</a>. This could be easier and involve less risk than the other option.
+<p>1. Acquire MWC with BTC. One exchange is <a href="https://geni.us/hotbit">Hotbit</a>. Be sure to use TOR and a non-traceable email address like <a href="https://protonmail.com/">Protonmail</a>.
+<p>2. Mix the MWC. You can create multiple 'Accounts'. In the QT wallet click in the upper right to do so.
+<p>3. Acquire BTC with MWC. Be sure to use TOR and a different non-traceable email address for a different account from when you acquired the MWC.
+<p><h2>Using a .onion mixer</h2>
+<p>This guide assumes the reader already has a basic understand of how to send Bitcoins and how to use .onion sites.</p>
 
 <p>To mix your coins using this method, you will need:</p>
 
@@ -79,5 +87,3 @@ published: true
 <p>I probably made this sound more complicated than it actually is. In total it should only take about 10-15 minutes, and it is something worth doing if you value your privacy and want to make sure you never lose any coins!</p>
 
 <p>As with anything, you should do your research before using Bitcoin tumbling services and use the ones with the best reviews and highest levels of trust. The tumblers we list as trusted have been around for some time and have had no verifiable complaints against them. The other services listed are either newer, <a href="/bitcoin-privacy-technologies-zerocash-confidential-transactions/">have been hacked</a>, or have had numerous complaints against them. We do not link to mixers that are scams, or that do not function as advertised.</p>
-
-
