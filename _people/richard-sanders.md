@@ -27,4 +27,4 @@ website: https://cipherblade.com/
 <p><h2>Notable Articles</h2>
 <p><a href="https://unchainedpodcast.com/how-to-keep-your-crypto-from-being-stolen-via-your-phone/">Unchained Podcast - How to Keep Your Crypto From Being Stolen Via Your Phone</a>
 <p><a href="https://medium.com/mycrypto/what-to-do-when-sim-swapping-happens-to-you-1367f296ef4d">The SIM Swapping Bible</a>
-<p><a href="">HitBTC Insolvency and Selective Scamming</a>
+<p><a href="/hitbtc-selective-scamming/">HitBTC Insolvency and Selective Scamming</a>
