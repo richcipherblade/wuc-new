@@ -8,13 +8,13 @@ published: true
 ---
 
 <p><b>Note: This article was originally published on Medium but was censored. If you have experienced similar censorship then consider using WeUseCoins by submitting a <a href="https://github.com/sunnankar/wuc-new">pull request</a> with your content. Credit to Trace Mayer for suggesting I repost here and continuing to be a champion of our industry with Proof of Keys.</b>
-  
-  <center><img src="/images/baghdadbob.jpg" alt="baghdad bob"></center>
 
-  
-  
-<p>How HitBTC engages in selective scamming and appears to hold only a single digit percent of the cryptocurrency their order books suggest. An analysis of how HitBTC’s very structure is deliberately designed for selective-scamming and what the blockchain firms and cryptocurrency users can do to remove this blemish from our industry.</p
-  
+<p><center><img src="/images/baghdadbob.jpg" alt="baghdad bob"></center>
+
+
+
+<p>How HitBTC engages in selective scamming and appears to hold only a single digit percent of the cryptocurrency their order books suggest. An analysis of how HitBTC’s very structure is deliberately designed for selective-scamming and what the blockchain firms and cryptocurrency users can do to remove this blemish from our industry.</p>
+
 <p><b> TL;DR </b>
 
 <p>There are <i>thousands</i> of times more posts on Reddit, Twitter, and other social media platforms from individuals with funds locked on HitBTC than <i> all other exchanges</i> <b>combined</b>. HitBTC alleges these locked funds are due to "AML", but this is an outright lie.
@@ -76,7 +76,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p><b>Trading Pairs and Listings:</b>
 
 <p><center><img src="/images/shitcoins.png" alt="shitcoins"></center>
-  
+
 <p>HitBTC offers over 800 trading pairs, which combined with (alleged) high volume and liquidity is an attractive aspect for obsessive day traders. Digging deeper, though, demonstrates this quantity of trading pairs isn’t to benefit cryptocurrency traders, but for HitBTC to line their pockets.
 
 <p>Of course, any exchange benefits from trading taking place on their platform — whether this is a BTC/ETH pair on a highly compliant exchange such as Coinbase, or the Bitconnect (BCC)/BTC pair on HitBTC. There is a fundamental difference between these two that must be dissected.
@@ -121,7 +121,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>HitBTC claims the reason their team is anonymous is for purposes of “security.” Somehow, entire teams from other blockchain firms, to include all executives from all major reputable cryptocurrency exchanges, seem to be fine with being public figures.
 
 <p><center><img src="/images/hitbtcforums.png" alt="hitbtc"></center>
-  
+
 <p>HitBTC’s old forums often had customers asking questions about this topic. It’s no mystery why their forum never quite seemed to relaunch.
 
 <p><center><img src="/images/coint.png" alt="coint"></center>
@@ -185,13 +185,13 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>Pro tip: if you’re doing the smart thing and getting any assets off HitBTC, several assets like ATB, ELE, and DOGE (DOGE mentioned due to likely having higher legitimate liquidity) may be viable routes for you.
 
 <p><center><img src="/images/doge.gif" alt="doge"></center>
-  
+
 <p>HitBTC DOGE volume (due to customer exits) is likely to noticeably rise soon.
 
 <p><b>Solvency</b>
 
 <p><center><img src="/images/rob.jpeg" alt="rob"></center>
-  
+
 <p>HitBTC’s accounting team, doxed above.
 
 <p>Before delving into the selective scamming section of this publication, which is the section that will inevitably generate the most attention, it is critical to describe the issues regarding the solvency of cryptocurrency exchanges, as it directly relates to how HitBTC enacts their scheme.
@@ -199,7 +199,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>It is possible to do an estimate of an exchange’s solvency status based upon known hot and cold wallets of exchanges relative to exchange volume. While this is not a 100% metric, it’s a starting point when no other methodology less an actual solvency audit exists:
 
 <p><center><img src="/images/coinfirm.png" alt="coinfirm"></center>
-  
+
 <p>Credit to Coinfirm on the above statistics.
 
 <p>As discussed regarding QuadrigaCX, the exchange was insolvent well before the alleged death of their founder. QuadrigaCX is not alone: many other blockchain projects have taken funds from investors or customers and used them for unauthorized purposes, whether this is exchanges taking custodial assets for their personal use or ICOs mismanaging investor funds to conduct transactions well outside the scope of the proposed Use of Funds in their whitepapers.
@@ -407,7 +407,7 @@ Perhaps, in the future, I’ll do some blockchain forensics on this and share so
 <p>There has been extensive backlash against HitBTC, to include in their own Telegram. Predictably, HitBTC’s admins (or paid shills, more accurately) are skirting the solvency question:
 
 <p><center><img src="/images/hitbtctg.jpeg" alt="hitbtctg"></center>
-  
+
 <p>Pro tip: liquidity is not solvency. Citing CoinMarketCap liquidity is not even close to answering the solvency question, and at this point, it’s overwhelmingly obvious that HitBTC thinks people are too stupid to know the difference: their admins have been given a (laughably absurd) “playbook” and the excuses are running dry.
 
 <p><b>Update 2 (December 19th, 2019):</b>
