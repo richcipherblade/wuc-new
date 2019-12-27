@@ -18,7 +18,9 @@ HitBTC's response to this publication is Baghdad Bob worthy.
   
 <p><b> TL;DR </b>
 
-<p>There are <i>thousands</i> of times more posts on Reddit, Twitter, and other social media platforms from individuals with funds locked on HitBTC than <i> all other exchanges</i> <b>combined</b>. HitBTC alleges these locked funds are due to "AML", but this is an outright lie.
+<p>There are <i>thousands</i> of times more posts on Reddit, Twitter, and other social media platforms from individuals with funds locked on HitBTC than <i> all other exchanges</i> <b>combined</b>. HitBTC alleges these locked funds are due to "AML", but this is an outright lie. HitBTC demonstrates a single digit percent solvency.
+
+<p><center><img src="/images/insolv.png" alt="insolv"></center>
 
 <p>HitBTC's wallet addresses hold a single digit percent of the holdings they should have, based upon the liquidity presented on their own platform. <a href="https://twitter.com/Raindropactual/status/1208241147988054017" class="bh cp hj hk hl hm" target="_blank" rel="noopener nofollow">These Tweets</a> provide the TL;DR evidence of HitBTC's insolvency being induspitable and extremely alarming.
 
