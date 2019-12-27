@@ -8,13 +8,14 @@ published: true
 ---
 
 <p><b>Note: This article was originally published on Medium but was censored. If you have experienced similar censorship then consider using WeUseCoins by submitting a <a href="https://github.com/sunnankar/wuc-new">pull request</a> with your content. Credit to Trace Mayer for suggesting I repost here and continuing to be a champion of our industry with Proof of Keys.</b>
-
-<p><center><img src="/images/baghdadbob.jpg" alt="baghdad bob"></center>
-
-
-
+  
+  <center><img src="/images/baghdadbob.jpg" alt="baghdad bob"></center>
+  
+HitBTC's response to this publication is Baghdad Bob worthy.
+  
+  
 <p>How HitBTC engages in selective scamming and appears to hold only a single digit percent of the cryptocurrency their order books suggest. An analysis of how HitBTC’s very structure is deliberately designed for selective-scamming and what the blockchain firms and cryptocurrency users can do to remove this blemish from our industry.</p>
-
+  
 <p><b> TL;DR </b>
 
 <p>There are <i>thousands</i> of times more posts on Reddit, Twitter, and other social media platforms from individuals with funds locked on HitBTC than <i> all other exchanges</i> <b>combined</b>. HitBTC alleges these locked funds are due to "AML", but this is an outright lie.
@@ -50,8 +51,6 @@ published: true
 
 <p>In the early/mid 90s, many people simply didn’t feel safe on the internet. Fraud was rampant, and the perception was that little would be done in instances of fraud. Much like cryptocurrency is described as the “wild west”, the internet was perceived in the same way. Many events, initiatives, and circumstances took place to overcome this barrier, some of which included better training for law enforcement, regulation, industry leaders establishing initiatives and best practices (beyond the scope of what they were forced to do) and consumers speaking with their money. Every category just described fits snugly with the modern blockchain industry and things that will need to take place prior to mass adoption.
 
-<p><center><img src="/images/growup.gif" alt="growup"></center>
-
 <p>It’s not 2011 anymore. Let’s pretend we’ve been an industry for a few years and do a little self-policing of ourselves and our businesses.
 
 <p>This article is going to call out a slew of misleading statements, namely under the categories of AML/Risk/Compliance, HitBTC states as justification freezing customer withdrawals when, in reality, nothing substantiates this. I’ve already established a track record for calling out Wall Street Journal journalists for LARPing as “investigators” — so it’s fitting to call out HitBTC staff for LARPing as proficient in fighting fraud and laundering… especially when they enable it and conduct it themselves.
@@ -76,7 +75,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p><b>Trading Pairs and Listings:</b>
 
 <p><center><img src="/images/shitcoins.png" alt="shitcoins"></center>
-
+  
 <p>HitBTC offers over 800 trading pairs, which combined with (alleged) high volume and liquidity is an attractive aspect for obsessive day traders. Digging deeper, though, demonstrates this quantity of trading pairs isn’t to benefit cryptocurrency traders, but for HitBTC to line their pockets.
 
 <p>Of course, any exchange benefits from trading taking place on their platform — whether this is a BTC/ETH pair on a highly compliant exchange such as Coinbase, or the Bitconnect (BCC)/BTC pair on HitBTC. There is a fundamental difference between these two that must be dissected.
@@ -106,7 +105,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 
 <p>A message regarding listing my token’s IEO on LAToken (I’m not the founder of any token, despite being an adviser for some projects.) This productive member of society wanted to list “my” token on LAToken — well, more accurately, this was an impersonation scammer from Nigeria, but LAToken staff conduct outreach in the exact same initial way.
 
-<p>LAToken has listed numerous projects that have soft-exited, and that anyone with a shred of investigative talent would have predicted as doing so with a few hours of due diligence prior to executing a listing agreement. While LAToken is a notable mention regarding “industry problems”, HitBTC is still, by far, the historical worst offender. LAToken is merely cited as an example because they do have a public facing team, and the point should be made that even exchanges with public-facing teams will happily list shitcoins (primarily inevitable soft-exits) to line their pockets. This problem won’t go away with HitBTC.
+<p>LAToken has listed numerous projects that have soft-exited, and that anyone with a shred of investigative talent would have predicted as doing so with a few hours of due diligence prior to executing a listing agreement. While LAToken is a notable mention regarding “industry problems”, HitBTC is still, by far, the historical worst offender. LAToken is merely cited as an example because they do have a public-facing team, and the point should be made that even exchanges with public-facing teams will happily list shitcoins (primarily inevitable soft-exits) to line their pockets. This problem won’t go away with HitBTC.
 
 <p>Every time a project exit scams (whether outright exit scam or soft-<a href="https://thenextweb.com/hardfork/2019/05/16/repux-joytoken-ico-exit-scam-8m/" class="bh cp hj hk hl hm" target="_blank" rel="noopener nofollow">soft-exits</a>), it turns off many people from the blockchain industry as a whole — whether those that experienced financial loss or their circle. Platforms like HitBTC and LAToken directly and indirectly enabled these losses and set our industry backward (in many ways, but specific to this topic) by listing these shitcoins.
 
@@ -114,14 +113,12 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 
 <p><b>Public-facing</b>
 
-<p><center><img src="/images/carlos.gif" alt="carlos"></center>
-
-<p>Would an appropriately managed and non-fraudulent exchange require a team to be anonymous, or is this even a sane question to ask? Carlos Matos seems to know the answer.
+<p>Would an appropriately managed and non-fraudulent exchange require a team to be anonymous, or is this even a sane question to ask? <a href="https://www.youtube.com/watch?v=0xAx1fBOma0">Carlos Matos</a> seems to know the answer.
 
 <p>HitBTC claims the reason their team is anonymous is for purposes of “security.” Somehow, entire teams from other blockchain firms, to include all executives from all major reputable cryptocurrency exchanges, seem to be fine with being public figures.
 
 <p><center><img src="/images/hitbtcforums.png" alt="hitbtc"></center>
-
+  
 <p>HitBTC’s old forums often had customers asking questions about this topic. It’s no mystery why their forum never quite seemed to relaunch.
 
 <p><center><img src="/images/coint.png" alt="coint"></center>
@@ -143,8 +140,6 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>In fact, it’s quite possible that the anonymity is so nefariously pre-meditated that even if authorities and/or the legal system pursued HitBTC, they’d be facing a myriad of on-chain obstacles (laundering) and business structural barriers. That’s bad news for the public if true — as it means that prospects for restitution are grim: a lengthy and resource-intensive process would be likely.
 <p>There is at perhaps a small silver lining in the HitBTC peculiar structural cloud for me, since it’s somewhat less likely (based upon HitBTC’s anonymity shenanigans) I’ll be facing a lawsuit over this publication, as it would put the identity game at risk — and likely result only in HitBTC finally getting the scrutiny they deserve for their criminally fraudulent activity.
 
-<p><center><img src="/images/comegetme.gif" alt="comegetme"></center>
-
 <p>It’s not libel or slander if the statements are true and fighting fraud. Please do try to sue me, HitBTC. (It's worth noting that in the weeks since this publication went live, I haven't been hit with a lawsuit -- but I have been creeped on by some of HitBTC's "business partners." Kinda makes one ponder about how aware they are about HitBTC's fraud...)
 
 <p>HitBTC’s other likely retort to this? They’ll pick another blockchain project’s team, such as Monero, that is anonymous. Apples and oranges: Monero isn’t holding client funds. While this isn’t to say (either way) if anonymous teams make sense under some circumstances, in the circumstance of being a custodial exchange, it does not make sense whatsoever — unless the sense is malicious intent.
@@ -156,8 +151,6 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>HitBTC is the <i>only</i> centralized exchange that does not require KYC upon signup for accounts with no limitations. HitBTC claims to “encourage” users to submit KYC documents to “avoid eventual verification procedure in the future.” This is the perfect “excuse” to freeze accounts for random insistence on an initial KYC process — behavior that, quite literally, no other exchange exhibits, and is a core component in their selective scamming scheme (more on that later).
 
 <p>Regardless of anyone’s personal opinion on KYC requirements (a divisive issue) one thing that should unite “both sides” is this: it’s absolutely batshit insane that an anonymous team would ask for to dox yourself to them. There are no words to describe how insane not only that very request is, let alone how depressing it is that our industry hasn’t called out that insanity. <a href="https://www.reddit.com/r/CryptoCurrency/comments/e6o7iq/reminder_delete_your_poloniex_accounts/" class="bh cp hj hk hl hm" target="_blank" rel="noopener nofollow">recent furor regarding Poloniex and customer data</a>, perhaps the only reason the realities of HitBTC’s KYC situation aren’t discussed is that those realities have gone on so long that it’s considered “normal.”
-
-<p><center><img src="/images/dave.gif" alt="dave"></center>
 
 <p>Imagine being asked to verify your identity by submitting identity documents to people that (want to or already) hold your money and won’t reveal who they are to you in 2019. Seriously. This is happening. This is a thing that is actually happening.
 
@@ -185,13 +178,13 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>Pro tip: if you’re doing the smart thing and getting any assets off HitBTC, several assets like ATB, ELE, and DOGE (DOGE mentioned due to likely having higher legitimate liquidity) may be viable routes for you.
 
 <p><center><img src="/images/doge.gif" alt="doge"></center>
-
+  
 <p>HitBTC DOGE volume (due to customer exits) is likely to noticeably rise soon.
 
 <p><b>Solvency</b>
 
 <p><center><img src="/images/rob.jpeg" alt="rob"></center>
-
+  
 <p>HitBTC’s accounting team, doxed above.
 
 <p>Before delving into the selective scamming section of this publication, which is the section that will inevitably generate the most attention, it is critical to describe the issues regarding the solvency of cryptocurrency exchanges, as it directly relates to how HitBTC enacts their scheme.
@@ -199,7 +192,7 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>It is possible to do an estimate of an exchange’s solvency status based upon known hot and cold wallets of exchanges relative to exchange volume. While this is not a 100% metric, it’s a starting point when no other methodology less an actual solvency audit exists:
 
 <p><center><img src="/images/coinfirm.png" alt="coinfirm"></center>
-
+  
 <p>Credit to Coinfirm on the above statistics.
 
 <p>As discussed regarding QuadrigaCX, the exchange was insolvent well before the alleged death of their founder. QuadrigaCX is not alone: many other blockchain projects have taken funds from investors or customers and used them for unauthorized purposes, whether this is exchanges taking custodial assets for their personal use or ICOs mismanaging investor funds to conduct transactions well outside the scope of the proposed Use of Funds in their whitepapers.
@@ -228,10 +221,6 @@ So what would entice a potential cryptocurrency trader to register on and use Hi
 <p>In the current status quo, exchanges that haven’t done solvency audits are late adopters. In a more mature industry, exchanges that haven’t done solvency audits would be automatically presumed to be conducting suspicious activity — actually, they’d likely not exist at all. But it’s up to you, the exchange user, to make this expectation a reality.
 
 <p><b>So what is HitBTC doing with customer assets?</b>
-
-<p><center><img src="/images/money.gif" alt="money"></center>
-
-<p>HitBTC customer assets are financing 'great' things.
 
 <p>Short answer: obviously, not what they should be doing as a custodial exchange. The obvious answer is “lining their pockets” and “yoloing.” You can bet that the insolvency of HitBTC has financed lavish lifestyles for those at the top of the HitBTC scheme. Beyond that, your guess is as good as mine.
 
@@ -315,9 +304,7 @@ Perhaps, in the future, I’ll do some blockchain forensics on this and share so
 
 <p>Go ahead and name one exchange that has a single-digit percentile of the locked funds claims that HitBTC has — or had this many issues around Proof of Keys. You can’t.
 
-<p><center><img src="/images/nothowthisworks.gif" alt="nothowthisworks"></center>
-
-<p>Suddenly, KYC and AML measures result in a spike of withdrawal freezing?
+<p>Suddenly, KYC and AML measures result in a spike of withdrawal freezing? <a href="https://www.youtube.com/watch?v=0N90D68_NfQ">That's not how it works.</a>
 
 <p>While most exchanges will have some level of KYC and AML measures (to include internal ones which, in fairness, are best left undisclosed publicly) — I highly doubt HitBTC is a client of any major forensics/KYT solutions provider. In fact, I highly doubt much, if any, KYC/AML measures exist at all with HitBTC, within the context of “heuristics to identify suspicious transaction behavior and freeze suspicious accounts/withdrawals.” I challenge HitBTC to have a trusted third party review such procedures, which they certainly won’t do.
 <p>To cement my point, I challenge anyone with the free time, curiosity, and funds to lose to make a couple of accounts on HitBTC: withdraw funds from a KYC’d exchange such as Coinbase — say, $100 — and withdraw funds from a mixer or darkweb shop — say, $99 — and watch which gets frozen. You (at this point most likely) won’t be surprised.
@@ -407,7 +394,7 @@ Perhaps, in the future, I’ll do some blockchain forensics on this and share so
 <p>There has been extensive backlash against HitBTC, to include in their own Telegram. Predictably, HitBTC’s admins (or paid shills, more accurately) are skirting the solvency question:
 
 <p><center><img src="/images/hitbtctg.jpeg" alt="hitbtctg"></center>
-
+  
 <p>Pro tip: liquidity is not solvency. Citing CoinMarketCap liquidity is not even close to answering the solvency question, and at this point, it’s overwhelmingly obvious that HitBTC thinks people are too stupid to know the difference: their admins have been given a (laughably absurd) “playbook” and the excuses are running dry.
 
 <p><b>Update 2 (December 19th, 2019):</b>
